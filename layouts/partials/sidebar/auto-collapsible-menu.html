@@ -2,10 +2,11 @@
 <ul class="list-unstyled collapsible-sidebar">
   {{ $currentPage := . -}}
   {{ $section := $currentPage.Section -}}
-  {{ range (where .Site.Sections "Section" "in" $section) }}
-    {{ range .Sections.ByWeight.Reverse }}
-      {{ $active := in $currentPage.RelPermalink .RelPermalink }}
+<!--  {{ range (where .Site.Sections "Section" "in" $section) }}-->
+    {{ range .Pages.ByWeight }}
+      {{ $active := eq $currentPage.CurrentSection .CurrentSection }}
       <li class="mb-1">
+        {{ if .IsSection }}
         <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#section-{{ md5 .Title }}" aria-expanded="{{ if $active }}true{{ else }}false{{ end }}">
           {{ .Title }}
         </button>
@@ -13,7 +14,7 @@
           <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
             {{ range .Pages }}
               {{ if .IsNode }}
-                {{ $active := in $currentPage.RelPermalink .RelPermalink }}
+                {{ $active := eq $currentPage.RelPermalink .RelPermalink }}
                 <li class="my-1 ms-3">
                   <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#section-{{ md5 .Title }}" aria-expanded="{{ if $active }}true{{ else }}false{{ end }}">
                     {{ .Title }}
@@ -22,7 +23,7 @@
                     <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
                       {{ range .Pages }}
                         {{ if .IsNode }}
-                          {{ $active := in $currentPage.RelPermalink .RelPermalink }}
+                          {{ $active := eq $currentPage.RelPermalink .RelPermalink }}
                           <li class="my-1 ms-3">
                             <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#section-{{ md5 .Title }}" aria-expanded="{{ if $active }}true{{ else }}false{{ end }}">
                               {{ .Title }}
@@ -30,14 +31,14 @@
                             <div class="collapse{{ if $active }} show{{ end }}" id="section-{{ md5 .Title }}">
                               <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
                                 {{ range .Pages }}
-                                  {{ $active := in $currentPage.RelPermalink .RelPermalink }}
+                                  {{ $active := eq $currentPage.RelPermalink .RelPermalink }}
                                   <li><a class="docs-link rounded{{ if $active }} active{{ end }}" href="{{ .Permalink }}">{{ .Title }}</a></li>
                                 {{ end }}
                               </ul>
                             </div>
                           </li>
                         {{ else }}
-                          {{ $active := in $currentPage.RelPermalink .RelPermalink }}
+                          {{ $active := eq $currentPage.RelPermalink .RelPermalink }}
                           <li><a class="docs-link rounded{{ if $active }} active{{ end }}" href="{{ .Permalink }}">{{ .Title }}</a></li>
                         {{ end }}
                       {{ end }}
@@ -45,13 +46,17 @@
                   </div>
                 </li>
               {{ else }}
-                {{ $active := in $currentPage.RelPermalink .RelPermalink }}
+                {{ $active := eq $currentPage.RelPermalink .RelPermalink }}
                 <li><a class="docs-link rounded{{ if $active }} active{{ end }}" href="{{ .Permalink }}">{{ .Title }}</a></li>
               {{ end }}
             {{ end }}
           </ul>
         </div>
+        {{ else }}
+          {{ $active := eq $currentPage.RelPermalink .RelPermalink }}
+          <li><a class="docs-link-standalone rounded{{ if $active }} active{{ end }}" href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
       </li>
     {{ end }}
-  {{ end }}
+<!--  {{ end }}-->
 </ul>
