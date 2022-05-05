@@ -13,7 +13,7 @@ logo = "<svg width=\"113\" height=\"22\" viewBox=\"0 0 59.8 11.64\" xmlns=\"http
 ## Open Graph
 images = ["planter.png"]
 ogLocale = "en_US"
-domainTLD = "info.planter.garden
+domainTLD = "info.planter.garden"
 titleHome = "Planter Documentation"
 
 ## Twitter Cards
