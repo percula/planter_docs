@@ -1,4 +1,4 @@
-baseurl = "https://sparkly-stroopwafel-3ca97f.netlify.app/"
+baseurl = "https://info.planter.garden/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
