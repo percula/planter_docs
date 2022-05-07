@@ -18,7 +18,7 @@ url: "getting-started"
 
 Planter is available on [iOS](https://apps.apple.com/us/app/planter-garden-planner/id1542642210),
 [Android](https://play.google.com/store/apps/details?id=com.perculacreative.peter.gardenplanner),
-and [web](https://planter.garden/gardens) (most features are only available with a subscription on web).
+and [web](https://planter.garden/gardens) (most features on web are only available with a subscription).
 
 ## Getting started
 
