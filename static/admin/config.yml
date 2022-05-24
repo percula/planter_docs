@@ -10,6 +10,7 @@ public_folder: "/images" # The src attribute for uploaded media will begin with 
 collections:
   - name: "docs" # Used in routes, e.g., /admin/collections/blog
     label: "Docs" # Used in the UI
+    singular: "Doc"
     folder: "content/en/docs" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     path: "{{slug}}/index"
