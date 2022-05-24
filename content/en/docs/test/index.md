@@ -1,6 +1,6 @@
 ---
 title: Test
-description: des
+description: description
 lead: lead
 date: 2022-05-24T18:55:59.781Z
 draft: false
