@@ -1,23 +1,23 @@
 ---
-title: "Plant & Variety FAQ"
-description: "Frequently asked questions about plants and varieties in the app."
-lead: "Frequently asked questions about plants and varieties in the app."
 draft: false
-url: "plants/faq"
+toc: true
+title: Plant & Variety FAQ
+description: Frequently asked questions about plants and varieties in the app.
+lead: Frequently asked questions about plants and varieties in the app.
+date: 2022-05-27T01:01:29.778Z
+url: plants/faq
 images: []
 weight: 201
 menu:
   docs:
-    parent: "plants"
-toc: true
+    parent: plants
 ---
-
 ## I don't see zucchini or green onions? Where are they?
-These are listed in the varieties tab of the plant. For example, jalapeño peppers are a variety of
+
+These are listed in the varieties tab of each plant. For example, jalapeño peppers are a variety of
 peppers [here](https://planter.garden/plants/peppers?tab=1).
 
 {{< screenshot variety.webp "Varieties tab showing zucchini for squash" >}}
-
 
 ## Why doesn't Planter have {name of plant}?
 
@@ -25,7 +25,6 @@ Please use the [Plants and Feature Requests](https://planter.garden/requests) to
 find in [Settings](https://planter.garden/settings). If the plant you're looking for has already
 been requested, please upvote it! This helps us prioritize which plants to add. While you're waiting
 for it to be added, you can [add a custom plant or variety](../customization).
-
 
 ## What about flowers? 🌼
 
