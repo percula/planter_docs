@@ -1,7 +1,7 @@
 ---
 title: "Kittens"
 lead: "So cute!"
-weight: 2
+weight: 12
 url: "cats/kittens"
 ---
 
