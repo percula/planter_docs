@@ -1,14 +1,7 @@
 ---
 title: "Calendar"
 description: "Documentation for the calendar page."
-draft: false
-images: []
-menu:
-  docs:
-    parent: "calendar"
 weight: 301
-toc: true
-url: "calendar"
 ---
 
 {{< alert icon="📆️" context="info" text="A new calendar page is in the works! Have ideas for how to improve it? <a href=\"https://planter.garden/requests/ua3YPTX6vH0USg2D86bs\">Share them here</a>." />}}

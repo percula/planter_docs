@@ -2,14 +2,7 @@
 title: "Customization"
 description: "Creating and editing plants and varieties."
 lead: "Creating and editing plants and varieties."
-draft: false
-images: []
 weight: 202
-url: "plants/customization"
-menu:
-  docs:
-    parent: "plants"
-toc: true
 ---
 
 ## Plants

@@ -1,5 +1,5 @@
 ---
 title: "Calendar"
 weight: 300
-permalink: "calendar"
+url: "calendar"
 ---

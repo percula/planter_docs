@@ -4,13 +4,7 @@ toc: true
 title: Plant & Variety FAQ
 description: Frequently asked questions about plants and varieties in the app.
 lead: Frequently asked questions about plants and varieties in the app.
-date: 2022-05-27T01:01:29.778Z
-url: plants/faq
-images: []
 weight: 201
-menu:
-  docs:
-    parent: plants
 ---
 ## I don't see zucchini or green onions? Where are they?
 

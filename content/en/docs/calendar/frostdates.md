@@ -2,14 +2,7 @@
 title: "Frost dates"
 description: "How to set your frost dates."
 lead: "How to set your frost dates."
-draft: false
-images: []
-menu:
-  docs:
-    parent: "calendar"
 weight: 302
-toc: true
-url: "frost-dates"
 ---
 
 ## Setting frost dates
