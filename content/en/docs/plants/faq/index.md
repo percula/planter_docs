@@ -1,6 +1,4 @@
 ---
-draft: false
-toc: true
 title: Plant & Variety FAQ
 description: Frequently asked questions about plants and varieties in the app.
 lead: Frequently asked questions about plants and varieties in the app.
