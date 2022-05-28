@@ -9,5 +9,3 @@ url: "cats/tacocat"
 
 Here is TacoCat:
 ![TacoCat](tacocat.jpeg)
-
-Anagram
