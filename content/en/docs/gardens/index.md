@@ -1,10 +1,7 @@
 ---
 title: "Gardens"
 description: "Documentation for the garden page."
-draft: false
-images: []
 weight: 100
-toc: true
 url: "gardens"
 ---
 

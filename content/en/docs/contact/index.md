@@ -1,11 +1,7 @@
 ---
 title: "Contact"
 lead: "Can't find the answer to your question? Contact us!"
-date: 2020-08-27T19:25:12+02:00
-lastmod: 2020-08-27T19:25:12+02:00
-draft: false
 weight: 10000
-images: []
 url: "contact"
 ---
 

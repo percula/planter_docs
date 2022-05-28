@@ -2,14 +2,8 @@
 title: "Plant & Variety FAQ"
 description: "Frequently asked questions about plants and varieties in the app."
 lead: "Frequently asked questions about plants and varieties in the app."
-draft: false
 url: "plants/faq"
-images: []
 weight: 201
-menu:
-  docs:
-    parent: "plants"
-toc: true
 ---
 
 ## I don't see zucchini or green onions? Where are they?

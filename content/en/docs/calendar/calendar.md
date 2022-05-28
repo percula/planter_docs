@@ -1,13 +1,7 @@
 ---
 title: "Calendar"
 description: "Documentation for the calendar page."
-draft: false
-images: []
-menu:
-  docs:
-    parent: "calendar"
 weight: 301
-toc: true
 url: "calendar"
 ---
 

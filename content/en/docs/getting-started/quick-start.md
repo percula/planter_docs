@@ -2,13 +2,6 @@
 title: "Quick Start"
 description: "This guide shows you how to create your first garden and add plants."
 lead: "This guide shows you how to create your first garden and add plants."
-draft: false
-images: []
-menu:
-  docs:
-    parent: "getting-started"
-weight: 3
-toc: true
 url: "quick-start"
 ---
 

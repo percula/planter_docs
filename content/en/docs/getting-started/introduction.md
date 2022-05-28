@@ -2,13 +2,7 @@
 title: "Overview"
 description: ""
 lead: ""
-draft: false
-images: []
-menu:
-  docs:
-    parent: "getting-started"
 weight: 2
-toc: true
 url: "getting-started"
 ---
 
