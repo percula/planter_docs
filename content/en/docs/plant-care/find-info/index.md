@@ -29,4 +29,4 @@ To find plant care information in Planter:
 
 {{< screenshot Carrots-grow-info.jpg "Screenshot of How to Grow information for carrots" >}}
 
-{{< alert icon="🥕" context="info" text="Don’t see the plant you are looking for? <a href=https://planter.garden/requests>Submit (or upvote!) a plant request</a> or <a href=\"add-plants/customization#creating-custom-plants\">create a custom plant</a>." />}}
+{{< alert icon="🥕" context="info" text="Don’t see the plant you are looking for? <a href=https://planter.garden/requests>Submit (or upvote!) a plant request</a> or <a href=\"add-plants/customization/#creating-custom-plants\">create a custom plant</a>." />}}
