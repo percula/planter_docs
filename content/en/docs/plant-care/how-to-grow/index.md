@@ -50,7 +50,7 @@ Shows when to **Start Indoors** (start growing seeds indoors), when to **Transpl
 
 - If the plant is typically grown by planting seeds directly outdoors, only the **Start Outdoors** dates will show.
 
-- If the plant is typically grown by starting indoors then transplanted outside, only the **Start Indoors** and **Transplant** dates will show.
+- If the plant is typically grown by starting seeds indoors then transplanting outside, only the **Start Indoors** and **Transplant** dates will show.
 
 {{< screenshot Carrots-growing-calendar.jpg "Screenshot of carrots Growing Calendar" >}}
 
