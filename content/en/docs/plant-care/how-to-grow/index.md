@@ -75,7 +75,7 @@ Select the cards to learn more about each combative plant.
 
 {{< alert icon="🌱" context="info" text="Plants that are neither companions nor combative are neutral. It’s not a problem to plant them side-by-side so long as their basic needs are met." />}}
 
-{{< alert icon="🌿" context="info" text="Some plants can be companions and combative, depending on the variety. An example of this is pole beans and bush beans. For these plants, Planter recommends only common companions and warns of all potentially combative plants. These plants have a yellow <a href=\"gardens#compatibility-indicators">compatibility indicator</a> in the garden." />}}
+{{< alert icon="🌿" context="info" text="Some plants can be companions and combative, depending on the variety. An example of this is pole beans and bush beans. For these plants, Planter recommends only common companions and warns of all potentially combative plants. These plants have a yellow <a href=\"/gardens#compatibility-indicators\">compatibility indicator</a> in the garden." />}}
 
 #### Pests
 Pests that the plant tends to suffer from. Select the cards to learn more about each of the pests including: Plants Affected, Identification, Damage, Prevention, Physical Controls, and Chemical Controls.
