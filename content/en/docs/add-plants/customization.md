@@ -3,7 +3,7 @@ title: "Customization"
 description: "Creating and editing plants and varieties."
 lead: "Creating and editing plants and varieties."
 weight: 202
-url: "plants/customization"
+url: "add-plants/customization"
 ---
 
 ## Plants
