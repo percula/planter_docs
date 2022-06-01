@@ -17,9 +17,9 @@ To find plant care information in Planter:
 
 2. To locate the plant(s) you are interested in, use Sort and Filter to organize and narrow down the list of plants and use Search to find a specific plant:
 
-{{< screenshot Plants-sort.jpg "Screenshot of plant sorting options" >}}
+{{< screenshot Plants-sort.jpg "Screenshot of plant sorting options" >}}  
 
-{{< screenshot Plants-filter.jpg "Screenshot of plant filter options" >}}
+{{< screenshot Plants-filter.jpg "Screenshot of plant filter options" >}}  
 
 {{< screenshot Plants-search.jpg "Screenshot of plant search" >}}
 
