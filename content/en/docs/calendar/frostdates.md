@@ -2,7 +2,7 @@
 title: "Frost dates"
 description: "How to set your frost dates."
 lead: "How to set your frost dates."
-weight: 302
+weight: 402
 url: "frost-dates"
 ---
 

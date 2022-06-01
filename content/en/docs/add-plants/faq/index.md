@@ -2,7 +2,7 @@
 title: "Plant & Variety FAQ"
 description: "Frequently asked questions about plants and varieties in the app."
 lead: "Frequently asked questions about plants and varieties in the app."
-url: "plants/faq"
+url: "add-plants/faq"
 weight: 201
 ---
 

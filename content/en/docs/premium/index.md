@@ -2,7 +2,7 @@
 title: "Premium Features"
 description: "Documentation for all the premium features in the app."
 lead: "Everything you need to know about the premium features in the app."
-weight: 600
+weight: 500
 url: "premium"
 ---
 

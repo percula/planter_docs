@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 lead: "Can't find the answer to your question? Contact us!"
-weight: 10000
+weight: 700
 url: "contact"
 ---
 
