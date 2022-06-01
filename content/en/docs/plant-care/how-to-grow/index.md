@@ -18,12 +18,12 @@ A brief overview of the plant and tips to grow it successfully.
 #### Category
 Which group the plant belongs to in Planter.
 
-![Carrots description screenshot](Carrots-description.jpg)
+{{< screenshot Carrots-description.jpg "Screenshot of carrots description" >}}
 
 #### Quick Info
 General planting and care information. Many of the Quick Info cards display additional details when selected.
 
-![Carrots quick info screenshot](Carrots-quick-info.jpg)
+{{< screenshot Carrots-quick-info.jpg "Screenshot of carrots Quick Info cards" >}}
 
 - **Spacing:** how many plants fit within a square foot. The plant spacing per square foot can be customized by tapping on this card.
 
@@ -35,7 +35,7 @@ General planting and care information. Many of the Quick Info cards display addi
 
 - **Season:** whether the plant is a **Warm** season crop that grows best when daytime temperatures are above 70°F (21°C), a **Cool** season crop that stops producing when daytime temperatures reach 80°F (27°C), or a **Perennial** that comes back on its own each year, so long as it is hardy enough to withstand local winter conditions.
 
-- **Frost:** whether the plant is **Tolerant** of hard frosts with air temperatures are below 28°F (-2°C), **Semi-tolerant** of light frosts with air temperatures are between 28°F and 32°F (-2°C and 0°C), or **Not tolerant** of frost where any frost might kill the plant.
+- **Frost:** whether the plant is **Tolerant** of hard frosts with air temperatures are below 28°F (-2°C), **Semi-Tolerant** of light frosts with air temperatures are between 28°F and 32°F (-2°C and 0°C), or **Not Tolerant** of frost where any frost might kill the plant.
 
 - **Germination:** how many days or weeks it takes the seeds to germinate (sprout) under proper germination conditions.
 
@@ -52,7 +52,8 @@ Shows when to **Start Indoors** (start growing seeds indoors), when to **Transpl
 
 - If the plant is typically grown by starting indoors then transplanted outside, only the **Start Indoors** and **Transplant** dates will show.
 
-![Carrots growing calendar screenshot](Carrots-growing-calendar.jpg)
+{{< screenshot Carrots-growing-calendar.jpg "Screenshot of carrots Growing Calendar" >}}
+
 {{< alert icon="❄️" context="warning" text="Pay attention to the weather forecast before planting outdoors to make sure there is no extreme weather coming that could harm your plants!" />}}
 
 #### Companion Plants
@@ -69,7 +70,8 @@ Plants that should not be planted beside the selected plant, as they can compete
 
 Select the cards to learn more about each combative plant.
 
-![Carrots companion plants screenshot](Carrots-companions.jpg)
+{{< screenshot Carrots-companions.jpg "Screenshot of carrots Companion Plants and Combative Plants" >}}
+
 {{< alert icon="🌱" context="info" text="Plants that are neither companions nor combative are neutral. It’s not a problem to plant them side-by-side so long as their basic needs are met." />}}
 
 {{< alert icon="🌿" context="info" text="Some plants can be companions and combative, depending on the variety. An example of this is pole beans and bush beans. For these plants, Planter recommends only the common companions and warns of all potentially combative combinations." />}}
@@ -80,7 +82,7 @@ Pests that the plant tends to suffer from. Select the cards to learn more about 
 #### Diseases
 Diseases that the plant tends to suffer from. Select the cards to learn more about each of the diseases including: Plants Affected, Identification, Damage, Prevention, Physical Controls, and Chemical Controls.
 
-![Carrots pests screenshot](Carrots-pests.jpg)
+{{< screenshot Carrots-pests.jpg "Screenshot of carrot Pests and Diseases" >}}
 
 #### Growing from Seed
 Whether gardeners typically grow the plant starting from seeds, and if so how to plant the seeds.
@@ -97,4 +99,4 @@ How to tell when the plant is ready to harvest and harvesting techniques.
 #### Storage
 Tips for storing and preserving the harvest.
 
-![Carrots storage info screenshot](Carrots-storage.jpg)
+{{< screenshot Carrots-storage.jpg "Screenshot of carrots Storage information" >}}

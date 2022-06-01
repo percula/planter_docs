@@ -13,27 +13,22 @@ Plant care information is found on the ‘How to Grow’ tab of each plant in Pl
 To find plant care information in Planter:
 1. Select ‘Plants’ from the menu bar
 
-![Menu Plants screenshot](Menu-plants.jpg)
+{{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}
 
 2. To locate the plant(s) you are interested in, use Sort and Filter to organize and narrow down the list of plants and use Search to find a specific plant:
 
-
-![Plants search bar screenshot](Plants-search-bar.jpg)
-
-
-![Plants sort screenshot](Plants-sort.jpg)
+{{< screenshot Plants-sort.jpg "Screenshot of plant sorting options" >}}
 
 
-![Plants filter screenshot](Plants-filter.jpg)
+{{< screenshot Plants-filter.jpg "Screenshot of plant filter options" >}}
 
 
-![Plants search screenshot](Plants-search.jpg)
-
+{{< screenshot Plants-search.jpg "Screenshot of plant search" >}}
 
 {{< alert icon="🌶️" context="info" text="Any filters that are applied will also filter the search results. Select ‘Show All’ to see all search results." />}}
 
 3. Select the plant card to see the How to Grow information for that plant:
 
-![Carrots grow info screenshot](Carrots-grow-info.jpg)
+{{< screenshot Plants-grow-info.jpg "Screenshot of How to Grow information for carrots" >}}
 
 {{< alert icon="🥕" context="info" text="Don’t see the plant you are looking for? <a href=https://planter.garden/requests>Submit (or upvote!) a plant request</a> or <a href=\"../customization#creating-custom-plants\">create a custom plant</a>." />}}
