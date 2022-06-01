@@ -19,7 +19,7 @@ To find plant care information in Planter:
 
 {{< screenshot Plants-sort.jpg "Screenshot of plant sorting options" >}}<br /><br /><br />
 
-{{< screenshot Plants-filter.jpg "Screenshot of plant filter options" >}}<br /><br />
+{{< screenshot Plants-filter.jpg "Screenshot of plant filter options" >}}<br /><br /><br />
 
 {{< screenshot Plants-search.jpg "Screenshot of plant search" >}}
 
