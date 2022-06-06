@@ -42,9 +42,9 @@ Setting your frost dates. [Frost dates →]({{< relref "frostdates" >}})
 
 ### Notes and events
 
-All about the Premium Notes and Events features. [Notes and Events →](../notes-and-events)
+All about the Premium Notes and Events features. [Notes and Events →]
 
 ### Frequently Asked Questions
-Frequently asked questions about adding plants. [FAQ →]({{< relref "faq" >}})
+Frequently asked questions about adding plants. [FAQ →]
 
 What features you get and how to use them. [Premium Features →]
