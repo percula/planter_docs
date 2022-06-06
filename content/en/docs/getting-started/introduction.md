@@ -24,10 +24,7 @@ The [quick start guide]({{< relref "quick-start" >}}) shows you how to create yo
 
 Everything you need to know about the garden screen. [Gardens →]({{< relref "garden" >}})
 
-
 ### Add Plants and Varieties
-
-Frequently asked questions about adding plants. [FAQ →]({{< relref "faq" >}})
 
 Adding custom plants and varieties. [Customization →]({{< relref "customization" >}})
 
@@ -43,7 +40,11 @@ All about the calendar screen. [Calendar →](../calendar)
 
 Setting your frost dates. [Frost dates →]({{< relref "frostdates" >}})
 
+### Notes and events
 
-### Premium Features
+All about the Premium Notes and Events features. [Notes and Events →](../notes-and-events)
 
-What features you get and how to use them. [Premium Features →](../premium)
+### Frequently Asked Questions
+Frequently asked questions about adding plants. [FAQ →]({{< relref "faq" >}})
+
+What features you get and how to use them. [Premium Features →]
