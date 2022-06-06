@@ -3,7 +3,7 @@ title: Premium Features
 description: Documentation for all the premium features in the app.
 lead: Everything you need to know about the premium features in the app.
 date: 2022-06-06T03:02:25.536Z
-draft: true
+draft: false
 url: premium
 weight: 500
 ---
