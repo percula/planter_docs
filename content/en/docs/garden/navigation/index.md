@@ -1,6 +1,6 @@
 ---
-title: "Garden Navigation"
-description: "Learn how to navigate and customize your gardens."
+title: "Garden navigation"
+description: "Learn how to navigate your garden in Planter"
 weight: 101
 url: "garden/navigation"
 ---
