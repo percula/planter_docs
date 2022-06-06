@@ -22,7 +22,7 @@ The [quick start guide]({{< relref "quick-start" >}}) shows you how to create yo
 
 ### Gardens
 
-Everything you need to know about the garden screen. [Gardens →]({{< relref "gardens" >}})
+Everything you need to know about the garden screen. [Gardens →]({{< relref "garden" >}})
 
 
 ### Add Plants and Varieties

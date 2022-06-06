@@ -67,7 +67,7 @@ Plants that complement the selected plant when planted close by.
 Select the cards to learn more about each suggested companion plant.
 
 #### Combative Plants
-Plants that should not be planted beside the selected plant, as they can compete intensely for the same resources, or suffer from the same diseases and pests.
+Plants that should not be planted next to the selected plant, as they can compete intensely for the same resources, or suffer from the same diseases and pests.
 
 Select the cards to learn more about each combative plant.
 
@@ -75,7 +75,7 @@ Select the cards to learn more about each combative plant.
 
 {{< alert icon="🌱" context="info" text="Plants that are neither companions nor combative are neutral. It’s not a problem to plant them side-by-side so long as their basic needs are met." />}}
 
-{{< alert icon="🌿" context="info" text="Some plants can be companions and combative, depending on the variety. An example of this is pole beans and bush beans. For these plants, Planter recommends only common companions and warns of all potentially combative plants. These plants have a yellow <a href=\"/garden\indicators#compability indicators\">compatibility indicator</a> in the garden." />}}
+{{< alert icon="🌿" context="info" text="Some plants can be companions and combative, depending on the variety. An example of this is pole beans and bush beans. For these plants, Planter recommends all potential companions and warns of all potentially combative plants. These plants have a yellow <a href=\"/garden\indicators#compability indicators\">compatibility indicator</a> in the garden." />}}
 
 #### Pests
 Pests that the plant tends to suffer from. Select the cards to learn more about each of the pests including: Plants Affected, Identification, Damage, Prevention, Physical Controls, and Chemical Controls.
