@@ -1,8 +1,10 @@
+---
 title: "How do I resize my garden"
 description: "Learn how to resize gardens in Planter"
 draft: false
 weight: 104
 url: "garden/resize"
+---
 
 To resize your garden in Planter:
 
