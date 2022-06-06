@@ -23,7 +23,7 @@ To find plant care information in Planter:
 
 {{< screenshot Plants-search.jpg "Screenshot of plant search" >}}
 
-{{< alert icon="🌶️" context="info" text="Any filters that are applied will also filter the search results. Select ‘Show All’ to see all search results." />}}
+{{< alert icon="🌶️" context="alert" text="Any filters that are applied will also filter the search results. Select ‘Show All’ to see all search results." />}}
 
 3. Select the plant card to see the How to Grow information for that plant:
 
