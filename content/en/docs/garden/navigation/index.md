@@ -1,8 +1,8 @@
 ---
-title: "Gardens"
-description: "Documentation for the garden page."
-weight: 100
-url: "gardens"
+title: "Garden Navigation"
+description: "Learn how to navigate and customize your gardens."
+weight: 101
+url: "garden/navigation"
 ---
 
 {{< alert icon="🌱" context="info" text="Check out the <a href=\"../quick-start\">quick start guide</a> to create your first garden and add plants." />}}
@@ -56,4 +56,3 @@ plant icon disappears because it currently isn't possible to add plants to all s
 
 1. Go to Settings in Planter and create a Planter account with email/password.
 2. Send them those credentials so they can login and work on the same garden.
-

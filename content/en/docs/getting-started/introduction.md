@@ -25,12 +25,17 @@ The [quick start guide]({{< relref "quick-start" >}}) shows you how to create yo
 Everything you need to know about the garden screen. [Gardens →]({{< relref "gardens" >}})
 
 
-### Plants and Varieties
+### Add Plants and Varieties
 
-Frequently asked questions about plants. [FAQ →]({{< relref "faq" >}})
+Frequently asked questions about adding plants. [FAQ →]({{< relref "faq" >}})
 
 Adding custom plants and varieties. [Customization →]({{< relref "customization" >}})
 
+### Plant Care
+
+Does Planter have plant care information? [Plant Care Info →]({{< relref "how-to-grow" >}})
+
+Where can I find plant care information in Planter? [Where to Find Plant Care Info →]({{< relref "find-info" >}})
 
 ### Calendar and Frost Dates
 
