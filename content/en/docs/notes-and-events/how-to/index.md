@@ -2,8 +2,8 @@
 title: "How can I use Notes and Events in Planter?"
 description: "Learn how to use the Notes and Events Premium features"
 draft: false
-weight: 900
-url: "notes-and-events"
+weight: 901
+url: "notes-and-events/how-to"
 ---
 
 Keep notes for individual plants or the whole garden.
