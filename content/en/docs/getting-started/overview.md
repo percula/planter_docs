@@ -1,7 +1,7 @@
 ---
 Title: "Planter support guide"
 description: "An overview of the Planter support articles"
-weight: 2
+weight: 3
 url: "getting-started"
 ---
 

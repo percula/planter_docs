@@ -1,6 +1,7 @@
 ---
 title: "Quick start"
 description: "A quick introduction to creating your first garden in Planter"
+weight: 2
 url: "quick-start"
 ---
 

@@ -5,7 +5,6 @@ weight: 4
 url: "getting-started/frost-dates"
 ---
 
-## Setting frost dates
 For temperate regions, knowing your frost date is vital to having a successful garden. Planter has a global database of weather stations to help determine your frost date.
 
 ### Automatically setting your frost dates
