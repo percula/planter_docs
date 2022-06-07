@@ -39,4 +39,4 @@ Frequently asked questions about Planter
 
 #### Connect With Us
 
-Connect with the Planter team: follow us on social media, report a bug, or request a feature.
+Connect with the Planter team: report a bug, suggest a feature, request support, and send feedback.
