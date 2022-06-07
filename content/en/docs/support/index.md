@@ -1,8 +1,8 @@
 ---
-title: "Support overview"
+title: "Planter support guide"
 description: "An overview of the Planter support articles"
 weight: 1
-url: "support-overview"
+url: "support"
 ---
 
 #### Getting started
