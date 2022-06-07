@@ -1,7 +1,7 @@
 ---
 title: "Manage Your Account"
 weight: 600
-url: "support/account"
+url: "account"
 ---
 
 ### If you are unable to login
