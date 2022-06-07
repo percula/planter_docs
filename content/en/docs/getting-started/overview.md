@@ -37,7 +37,7 @@ Where can I find plant care information in Planter? [Where to Find Plant Care In
 
 All about the calendar screen. [Calendar →]({{< relref "growing-calendar" >}})
 
-Setting your frost dates. [Frost dates →]({{< relref "frost-dates" >}})
+Setting your frost dates. [Frost dates →]({{< relref "frostdates" >}})
 
 ### Notes and events
 
