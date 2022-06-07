@@ -7,7 +7,7 @@ url: "getting-started"
 
 ## Getting started
 
-The [quick start guide]({{< relref "quick-start" >}}) shows you how to create your first garden and add plants.
+The [quick start guide] shows you how to create your first garden and add plants.
 
 ### Gardens
 
