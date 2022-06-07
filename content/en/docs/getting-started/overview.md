@@ -15,27 +15,27 @@ and [web](https://planter.garden/gardens) (most features on web are only availab
 
 ## Getting started
 
-The [quick start guide]({{< relref "quick-start" >}}) shows you how to create your first garden and add plants.
+The [quick start guide] shows you how to create your first garden and add plants.
 
 ## Documentation
 
 ### Gardens
 
-Everything you need to know about the garden screen. [Gardens →]({{< relref "garden" >}})
+Everything you need to know about the garden screen. [Gardens →]
 
 ### Add Plants and Varieties
 
-Adding custom plants and varieties. [Customization →]({{< relref "customization" >}})
+Adding custom plants and varieties. [Customization →]
 
 ### Plant Care
 
-Does Planter have plant care information? [Plant Care Info →]({{< relref "how-to-grow" >}})
+Does Planter have plant care information? [Plant Care Info →]
 
 Where can I find plant care information in Planter? [Where to Find Plant Care Info →]({{< relref "find-info" >}})
 
 ### Calendar and Frost Dates
 
-All about the calendar screen. [Calendar →]({{< relref "growing-calendar" >}})
+All about the calendar screen. [Calendar →]
 
 Setting your frost dates. [Frost dates →]
 
