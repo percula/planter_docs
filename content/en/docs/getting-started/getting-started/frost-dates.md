@@ -2,7 +2,7 @@
 title: "Frost dates"
 description: "How to set your frost dates in Planter"
 weight: 4
-url: "getting-started/frost-dates"
+url: "/frost-dates"
 ---
 
 ## Setting frost dates
