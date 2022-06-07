@@ -2,7 +2,7 @@
 title: "Overview"
 description: "A list of the Planter support articles"
 weight: 2
-url: "overview"
+url: "getting-started/overview"
 ---
 
 {{< alert icon="🌱" context="info" text="Check out the <a href=\"../quick-start\">quick start guide</a> to create your first garden and add plants." />}}

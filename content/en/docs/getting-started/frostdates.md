@@ -1,7 +1,7 @@
 ---
 title: "Frost dates"
 description: "How to set your frost dates."
-weight: 3
+weight: 4
 url: "getting-started/frost-dates"
 ---
 

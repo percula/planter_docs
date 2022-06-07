@@ -1,7 +1,6 @@
 ---
-title: "Plant & Variety FAQ"
-description: "Frequently asked questions about plants and varieties in the app."
-lead: "Frequently asked questions about plants and varieties in the app."
+title: "Plants and Varieties"
+description: "Frequently asked questions about plants and varieties in Planter"
 url: "faq/plants"
 weight: 201
 ---
