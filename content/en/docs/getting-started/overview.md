@@ -2,7 +2,7 @@
 title: "Overview"
 description: "A list of the Planter support articles"
 weight: 2
-url: "getting-started"
+url: "overview"
 ---
 
 {{< alert icon="🌱" context="info" text="Check out the <a href=\"../quick-start\">quick start guide</a> to create your first garden and add plants." />}}
@@ -35,7 +35,7 @@ Where can I find plant care information in Planter? [Where to Find Plant Care In
 
 ### Calendar and Frost Dates
 
-All about the calendar screen. [Calendar →](../calendar)
+All about the calendar screen. [Calendar →](../growing-calendar)
 
 Setting your frost dates. [Frost dates →]({{< relref "frostdates" >}})
 
