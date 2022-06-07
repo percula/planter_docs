@@ -1,7 +1,7 @@
 ---
 title: "Custom Plants and Varieties"
 description: "How to create and edit custom plants and varieties."
-weight: 202
+weight: 201
 url: "add-plants/customization"
 ---
 

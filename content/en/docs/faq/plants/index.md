@@ -2,7 +2,7 @@
 title: "Plants and Varieties"
 description: "Frequently asked questions about plants and varieties in Planter"
 url: "faq/plants"
-weight: 201
+weight: 703
 ---
 
 ## I don't see zucchini or green onions? Where are they?

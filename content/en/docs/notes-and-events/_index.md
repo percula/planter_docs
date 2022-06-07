@@ -1,5 +1,5 @@
 ---
 title: "Notes and Events"
-weight: 900
+weight: 500
 url: "notes-and-events"
 ---

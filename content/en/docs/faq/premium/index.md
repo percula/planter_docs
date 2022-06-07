@@ -1,7 +1,7 @@
 ---
 title: "What do I get with a Planter Premium subscription?"
 description: "Learn about the Premium features in Planter"
-weight: 501
+weight: 702
 url: "faq/premium"
 ---
 

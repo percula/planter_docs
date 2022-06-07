@@ -2,7 +2,7 @@
 title: "How can I use Notes and Events in Planter?"
 description: "Learn how to use the Notes and Events Premium features"
 draft: false
-weight: 901
+weight: 501
 url: "notes-and-events/how-to"
 ---
 
