@@ -10,7 +10,7 @@ To rename your garden in Planter:
 
 1. In the Gardens screen, the three dots icon beside the garden you want to rename
 
-{{< screenshot Garden-list-dots.jpg "Screenshot of a garden name with the three dots icon" >}}<br /><br />
+{{< screenshot Garden-list-dots.jpg "Screenshot of a garden name with the three dots icon" >}}<br />
 
 2. Enter the new garden name and select Ok:
 
