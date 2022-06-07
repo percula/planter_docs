@@ -18,8 +18,8 @@ To resize your garden in Planter:
 
 3. Use the + and - icons on each side of the garden to increase or decrease the garden size on that side, then select Save:
 
+{{< alert icon="🌶️" context="warning" text="Reducing a garden’s size will cause plants that no longer fit in the space to be removed." />}}
+
 {{< screenshot Garden-dimensions.jpg "Screenshot of a the Change Garden Dimensions window" >}}<br /><br />
 
 {{< screenshot Garden-resized.jpg "Screenshot of a garden that has been resized" >}}
-
-{{< alert icon="🌶️" context="warning" text="Reducing a garden’s size will cause plants that no longer fit in the space to be removed." />}}
