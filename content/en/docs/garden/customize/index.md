@@ -28,7 +28,7 @@ To customize your garden in Planter:
 
 {{< screenshot Customize-background.jpg "Screenshot of background and foreground customization selectors" >}}<br /><br />
 
-{{ alert icon="🌱" context="info" text="Use the 'Raised bed edge (auto)' foreground to quickly surround all selected squares with edging." />}}
+{{< alert icon="🌱" context="info" text="Use the 'Raised bed edge (auto)' foreground to quickly surround all selected squares with edging." />}}
 
 {{< screenshot Mulch-background.jpg "Screenshot of a garden with mulch background and raised bed foreground" >}}<br /><br />
 
@@ -40,7 +40,7 @@ To customize your garden in Planter:
 
 {{< screenshot Hose-rotated.jpg "Screenshot of the hose foreground after rotating" >}}<br /><br />
 
-{{ alert icon="🌿" context="info" text="Foregrounds cannot be layered; select one foreground per square (e.g., a container or a cage)." />}}
+{{< alert icon="🌿" context="info" text="Foregrounds cannot be layered; select one foreground per square (e.g., a container or a cage)." />}}
 
 To reset your garden background:
 
@@ -48,4 +48,4 @@ To reset your garden background:
 2. Select the palette icon
 3. Choose a new background and foreground, or leave the background and foreground empty to clear all customizations
 
-{{ alert icon="🌶️" context="warning" text="You can’t clear the foreground while leaving the background - either leave the background and foreground empty to clear all customizations, or select a new background and foreground." />}}
+{{< alert icon="🌶️" context="warning" text="You can’t clear the foreground while leaving the background - either leave the background and foreground empty to clear all customizations, or select a new background and foreground." />}}
