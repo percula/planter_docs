@@ -5,30 +5,38 @@ weight: 2
 url: "getting-started"
 ---
 
-## Getting started
+#### Getting started
 
-Everything you need to know to get up and running with Planter~
+Everything you need to know to get up and running with Planter
 
-### Garden Navigation
+#### Garden Navigation
 
-How to navigate, edit, and share your gardens in Planter.
+How to navigate, edit, and share your gardens in Planter
 
-### Add Plants and Varieties
+#### Add Plants and Varieties
 
-How to add plants to your garden and create custom plants and varieties.
+How to add plants to your garden and create custom plants and varieties
 
-### Plant Care
+#### Plant Care
 
-Plant care information in Planter and where to find it.
+Plant care information in Planter and where to find it
 
-### Growing Calendar
+#### Growing Calendar
 
-How to use the Growing Calendar in Planter.
+How to use the Growing Calendar in Planter
 
-### Notes and events
+#### Notes and events
 
-How to use the Notes and Events Premium features.
+How to use the Notes and Events Premium features
 
-### FAQ
+#### Manage Your Account
 
-Frequently asked questions about Planter.
+How to manage your Planter account and Premium subscription
+
+#### FAQ
+
+Frequently asked questions about Planter
+
+#### Connect With Us
+
+Connect with the Planter team: follow us on social media, report a bug, or request a feature.
