@@ -11,18 +11,19 @@ Planter is available on [iOS](https://apps.apple.com/us/app/planter-garden-plann
 [Android](https://play.google.com/store/apps/details?id=com.perculacreative.peter.gardenplanner),
 and [web](https://planter.garden/gardens) (most features on web are only available with a subscription).
 
+## Set your frost dates
+
+{{< alert icon="❄️" context="info" text="It's important to set your frost dates in Planter for all features in the app to work properly. See 'How do I set my frost dates' for detailed steps to your frost dates." />}}
+
+1. Go to Settings
+2. Tap "Weather Station" and follow the prompts
+
 ## Creating your first garden
 1. Tap the "+ New Garden" button
 2. Enter the garden name
 3. Enter the dimensions of the garden. Note that the size is limited, since large gardens can lead to slow performance on some devices.
 
-> Hint: You can switch between imperial and metric units in Settings
-
-## Interacting with your garden
-- Use two fingers and pinch to zoom in or out
-- When zoomed in, use a single finger to pan
-- Tap on a plant to view it
-- Long-press on a square and release to select it. This will bring you into multi-select mode, where you can select additional squares before selecting an action.
+{{< alert icon="🌱" context="info" text="You can switch between imperial and metric units in Settings" />}}
 
 ## Adding plants to the garden
 1. Tap the "+ Add Plants" button

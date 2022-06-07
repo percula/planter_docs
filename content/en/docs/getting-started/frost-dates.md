@@ -1,5 +1,5 @@
 ---
-title: "Frost dates"
+title: "How do I set my frost dates?"
 description: "How to set your frost dates in Planter"
 weight: 4
 url: "getting-started/frost-dates"
@@ -20,4 +20,4 @@ For temperate regions, knowing your frost date is vital to having a successful g
 ### Tropical and hot regions
 If you live in a region where the temperature never goes below freezing, you can largely ignore the planting times given by the calendar. Plant cool season crops such as Broccoli and Cabbage in your cool season. Likewise, plant thirsty crops in your rainy season.
 
-{{< alert icon="🔥️" context="danger" text="Wrong frost dates? Please send me a screenshot of the Settings page so I can fix the data for your local weather station." />}}
+{{< alert icon="🔥️" context="danger" text="Wrong frost dates? Report it to the Planter team using the “Report a bug” option in [Settings](https://planter.garden/settings)" />}}
