@@ -10,7 +10,9 @@ Have a large garden? Zoom in and move (pan) around to focus on different areas i
 #### On a mobile device:
 
 1. With two fingers on the screen, move them away from each other to zoom in or pinch them together to zoom out:
+
 {{< screenshot Garden-zoom-out.jpg "Screenshot of a garden that is zoomed out" >}}
+
 {{< screenshot Garden-zoom-in.jpg "Screenshot of a garden that is zoomed in" >}}
 
 2. When zoomed in, drag single finger across the screen to move around the garden
