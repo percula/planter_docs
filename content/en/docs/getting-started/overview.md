@@ -7,33 +7,28 @@ url: "getting-started"
 
 ## Getting started
 
-The [quick start guide] shows you how to create your first garden and add plants.
+Everything you need to know to get up and running with Planter~
 
-### Gardens
+### Garden Navigation
 
-Everything you need to know about the garden screen. [Gardens →]
+How to navigate, edit, and share your gardens in Planter.
 
 ### Add Plants and Varieties
 
-Adding custom plants and varieties. [Customization →]
+How to add plants to your garden and create custom plants and varieties.
 
 ### Plant Care
 
-Does Planter have plant care information? [Plant Care Info →]
+Plant care information in Planter and where to find it.
 
-Where can I find plant care information in Planter? [Where to Find Plant Care Info →]({{< relref "find-info" >}})
+### Growing Calendar
 
-### Calendar and Frost Dates
-
-All about the calendar screen. [Calendar →]
-
-Setting your frost dates. [Frost dates →]
+How to use the Growing Calendar in Planter.
 
 ### Notes and events
 
-All about the Premium Notes and Events features. [Notes and Events →]
+How to use the Notes and Events Premium features.
 
-### Frequently Asked Questions
-Frequently asked questions about adding plants. [FAQ →]
+### FAQ
 
-What features you get and how to use them. [Premium Features →]
+Frequently asked questions about Planter.
