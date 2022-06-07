@@ -1,4 +1,5 @@
-itle: "Planter support guide"
+---
+Title: "Planter support guide"
 description: "An overview of the Planter support articles"
 weight: 1
 url: "support"
