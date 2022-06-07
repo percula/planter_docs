@@ -5,7 +5,7 @@ draft: false
 weight: 101
 url: "garden/zoom-and-pan"
 ---
-## Interacting with your garden
+
 - Use two fingers and pinch to zoom in or out
 - When zoomed in, use a single finger to pan
 - Tap on a plant to view it
