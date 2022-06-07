@@ -16,4 +16,4 @@ Please use the "Send Feedback" option in [Settings](https://planter.garden/setti
 email. Please keep the user ID in the email so we can locate your account.
 
 If you don't have the app installed or can't access the [Settings](https://planter.garden/settings) screen, you can contact us at
-{{< email user="support" domain="planter.garden" >}}.
+[Planter Support].
