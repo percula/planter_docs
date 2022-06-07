@@ -1,5 +1,5 @@
 ---
-title: "Account Issues"
+title: "Manage Your Account"
 weight: 600
 url: "account"
 ---

@@ -1,10 +1,8 @@
 ---
 title: "Quick Start"
-description: "This guide shows you how to create your first garden and add plants."
-lead: "This guide shows you how to create your first garden and add plants."
+description: "A quick introduction to creating your first garden in Planter"
 url: "quick-start"
 ---
-
 
 For more detailed information, please use the navigation menu or search bar.
 

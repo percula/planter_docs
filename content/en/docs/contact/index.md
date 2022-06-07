@@ -1,7 +1,7 @@
 ---
-title: "Contact"
-lead: "Can't find the answer to your question? Contact us!"
-weight: 700
+title: "Connect with Us"
+description: "Connect with the Planter team!"
+weight: 10000
 url: "contact"
 ---
 

@@ -1,14 +1,13 @@
 ---
-title: "Premium Features"
-description: "Documentation for all the premium features in the app."
-lead: "Everything you need to know about the premium features in the app."
+title: "What do I get with a Planter Premium subscription?"
+description: "Learn about the Premium features in Planter"
 weight: 501
 url: "faq/premium"
 ---
 
 {{< alert icon="💸" context="info" text="Answers to your subscription questions <a href=\"../account#subscriptions\">here</a>." />}}
 
-## What does "premium" include?
+## A Premium subscription to Planter includes:
 
 ♾ Unlimited gardens
 

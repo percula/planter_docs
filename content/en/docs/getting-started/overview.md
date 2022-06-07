@@ -1,7 +1,6 @@
 ---
 title: "Overview"
-description: ""
-lead: ""
+description: "A list of the Planter support articles"
 weight: 2
 url: "getting-started"
 ---
