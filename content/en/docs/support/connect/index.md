@@ -2,7 +2,7 @@
 title: "Connect with Us"
 description: "Connect with the Planter team!"
 weight: 800
-url: "connect"
+url: "support/connect"
 ---
 
 ### Notice a bug?

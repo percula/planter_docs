@@ -1,7 +1,7 @@
 ---
 title: "Plants and Varieties"
 description: "Frequently asked questions about plants and varieties in Planter"
-url: "faq/plants"
+url: "suport/faq/plants"
 weight: 703
 ---
 

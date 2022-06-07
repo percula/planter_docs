@@ -2,7 +2,7 @@
 title: "Growing Calendar"
 description: "How to use the Growing Calendar in Planter"
 weight: 400
-url: "calendar"
+url: "support/calendar"
 ---
 
 {{< alert icon="📆️" context="info" text="A new Growing Calendar page is in the works! Have ideas for how to improve it? <a href=\"https://planter.garden/requests/ua3YPTX6vH0USg2D86bs\">Share them here</a>." />}}
