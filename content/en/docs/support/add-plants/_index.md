@@ -1,5 +1,5 @@
 ---
 title: "Add Plants and Varieties"
 weight: 200
-url: "support/add-plants"
+url: "add-plants"
 ---

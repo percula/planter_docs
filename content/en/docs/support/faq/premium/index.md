@@ -2,7 +2,7 @@
 title: "What do I get with a Planter Premium subscription?"
 description: "Learn about the Premium features in Planter"
 weight: 702
-url: "support/faq/premium"
+url: "faq/premium"
 ---
 
 {{< alert icon="💸" context="info" text="Answers to your subscription questions <a href=\"../account#subscriptions\">here</a>." />}}
