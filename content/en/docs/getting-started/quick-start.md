@@ -7,6 +7,11 @@ url: "getting-started/quick-start"
 
 For more detailed information, please use the navigation menu or search bar.
 
+## Download Planter
+Planter is available on [iOS](https://apps.apple.com/us/app/planter-garden-planner/id1542642210),
+[Android](https://play.google.com/store/apps/details?id=com.perculacreative.peter.gardenplanner),
+and [web](https://planter.garden/gardens) (most features on web are only available with a subscription).
+
 ## Creating your first garden
 1. Tap the "+ New Garden" button
 2. Enter the garden name

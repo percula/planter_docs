@@ -1,7 +1,7 @@
 ---
 title: "How can I multi-select plants and garden squares?"
 description: "Learn how to mutli-select plants and garden squares"
-weight: 101
+weight: 104
 url: "garden/multi-select"
 ---
 

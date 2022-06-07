@@ -1,23 +1,13 @@
 ---
 title: "Overview"
-description: "A list of the Planter support articles"
+description: "An overview of the Planter support articles"
 weight: 2
-url: "getting-started/overview"
+url: "getting-started"
 ---
-
-{{< alert icon="🌱" context="info" text="Check out the <a href=\"../quick-start\">quick start guide</a> to create your first garden and add plants." />}}
-
-## Download
-
-Planter is available on [iOS](https://apps.apple.com/us/app/planter-garden-planner/id1542642210),
-[Android](https://play.google.com/store/apps/details?id=com.perculacreative.peter.gardenplanner),
-and [web](https://planter.garden/gardens) (most features on web are only available with a subscription).
 
 ## Getting started
 
-The [quick start guide] shows you how to create your first garden and add plants.
-
-## Documentation
+The [quick start guide]({{< relref "quick-start" >}}) shows you how to create your first garden and add plants.
 
 ### Gardens
 

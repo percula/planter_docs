@@ -2,7 +2,7 @@
 title: "How can I customize my garden?"
 description: "Learn how to customize gardens in Planter"
 draft: false
-weight: 102
+weight: 107
 url: "garden/customize"
 ---
 
