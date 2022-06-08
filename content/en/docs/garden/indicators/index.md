@@ -8,7 +8,7 @@ url: "garden/indicators"
 Helpful garden indicators in Planter let you plan and manage your garden at a glance:
 
 #### Compatibility indicators
-Compatibility indicators are the green, red, and yellow circles (and quarter-circles) that sometimes appear between plants in your garden.<br />
+Compatibility indicators are the green, red, and yellow circles (and quarter-circles) that sometimes appear between plants in your garden.<br /><br />
 {{< screenshot Compatibility-indicators.jpg "Screenshot of a garden with green, red, and yellow compatibility indicators" >}}
 
 - Green circles between plants means they are companions and work well planted next to each other.
@@ -24,10 +24,10 @@ Compatibility indicators are the green, red, and yellow circles (and quarter-cir
 - No circle between plants means they are neutral - neither companions nor combative. They can be planted next to each other without issue, so long as their needs are met.
 
 #### Plant Spacing indicators
-Planter shows you many plants can be planted per-square-foot by showing a number with an x and a white circle around it.<br />
+Planter shows you many plants can be planted per-square-foot by showing a number with an x and a white circle around it.<br /><br />
 {{< screenshot Spacing-indicators.jpg "Screenshot of a garden with plant spacing indicators" >}}
 
-- ***4x*** means 4 plants can be planted within one square foot of garden space.
+- **4x** means 4 plants can be planted within one square foot of garden space.
 
 - Plants that need an entire square foot or more per plant do not have a spacing indicator. The size of the plant icon shows how many square feet the plant needs. For example, tomatoes need four square feet per plant.
 
@@ -36,12 +36,12 @@ Planter shows you many plants can be planted per-square-foot by showing a number
 #### Notes and Events indicators
 {{< alert icon="💸" context="info" text="Notes and Events are Premium features." />}}
 
-If you added a note or an event to a plant in your garden, a Notes and Events indicator will appear on that plant.<br />
+If you added a note or an event to a plant in your garden, a Notes and Events indicator will appear on that plant.<br /><br />
 
 {{< screenshot Notes-indicators.jpg "Screenshot of a garden with notes indicators on plants" >}}
 
 {{< alert icon="🥬" context="info" text="Plants with multiple notes and events have a layered Notes and Events indicator. " />}}
 
-Notes and events for the entire garden can be seen by selecting the Notes and Events icon for the garden:<br />
+Notes and events for the entire garden can be seen by selecting the Notes and Events icon for the garden:<br /><br />
 
 {{< screenshot Garden-notes.jpg "Screenshot of the garden Notes and Events icon" >}}
