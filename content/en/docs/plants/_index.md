@@ -1,5 +1,5 @@
 ---
-title: "Add Plants (and varieties!)"
+title: "Add Plants"
 weight: 200
 url: "plants"
 ---

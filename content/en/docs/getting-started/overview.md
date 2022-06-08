@@ -13,9 +13,9 @@ Everything you need to know to get up-and-running with Planter
 
 Navigate, edit, and share your gardens in Planter
 
-#### Add plants (and varieties!)
+#### Add plants
 
-Add plants to your garden and create custom plants and varieties
+Add plants to your garden; create custom plants and plant varieties
 
 #### Plant care
 
@@ -39,4 +39,4 @@ Frequently asked questions about Planter
 
 #### Connect with us
 
-Connect with the Planter team: report a bug, suggest a feature, request support, and send feedback.
+Need help? Have feedback? Connect with the Planter team
