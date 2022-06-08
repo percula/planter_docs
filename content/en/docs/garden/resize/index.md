@@ -12,9 +12,9 @@ To resize your garden in Planter:
 
 {{< screenshot Garden-list.jpg "Screenshot of a garden name" >}}<br />
 
-2. In the garden, select the three dots icon at the top of the screen
+2. In the garden, select the three dots (⋮) icon
 
-{{< screenshot Garden-three-dots.jpg "Screenshot of a garden with the three dots icon" >}}<br />
+{{< screenshot Garden-three-dots.jpg "Screenshot of the three dots icon" >}}<br />
 
 3. Use the + and - icons on each side of the garden to increase or decrease the garden size on that side, then select Save:
 

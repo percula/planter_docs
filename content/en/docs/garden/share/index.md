@@ -6,6 +6,10 @@ weight: 108
 url: "garden/share"
 ---
 
-1. From the garden view, tap the ⋮ icon and select "Share screenshot".
+1. In the garden you want to share, select the three dots (⋮) icon then select "Share screenshot"
 
-2. The system share dialog should pop up. From there, you can share it to any app or save it.
+{{< screenshot Garden-three-dots.jpg "Screenshot of the three dots icon" >}}<br />
+
+2. From your system sharing screen, you can share the screenshot to another app or save it.
+
+{{< screenshot System-share.jpg "Screenshot of a system sharing screen" >}}
