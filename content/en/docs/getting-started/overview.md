@@ -13,7 +13,7 @@ Everything you need to know to get up-and-running with Planter
 
 Navigate, edit, and share your gardens in Planter
 
-#### Add plants and varieties
+#### Add plants (and varieties!)
 
 Add plants to your garden and create custom plants and varieties
 
@@ -21,7 +21,7 @@ Add plants to your garden and create custom plants and varieties
 
 Plant care information in Planter and where to find it
 
-#### Growing calendar
+#### Growing Calendar
 
 Use the Growing Calendar in Planter
 
