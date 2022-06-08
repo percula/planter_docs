@@ -48,5 +48,5 @@ To reset your garden background:
 
 {{< alert icon="🌶️" context="warning" text="You can’t clear the foreground while leaving the background - either leave the background and foreground empty to clear all customizations, or select a new background and foreground." />}}
 
-#### Video: Background Customization
+#### Video: Customization
 {{< youtube AjfhkyeWzsk>}}

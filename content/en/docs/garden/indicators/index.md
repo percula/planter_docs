@@ -9,6 +9,7 @@ Helpful garden indicators in Planter let you plan and manage your garden at a gl
 
 #### Compatibility indicators
 Compatibility indicators are the green, red, and yellow circles (and quarter-circles) that sometimes appear between plants in your garden.<br /><br />
+
 {{< screenshot Compatibility-indicators.jpg "Screenshot of a garden with green, red, and yellow compatibility indicators" >}}
 
 - Green circles between plants means they are companions and work well planted next to each other.
@@ -29,7 +30,7 @@ Planter shows you many plants can be planted per-square-foot by showing a number
 
 - **4x** means 4 plants can be planted within one square foot of garden space.
 
-- Plants that need an entire square foot or more per plant do not have a spacing indicator. The size of the plant icon shows how many square feet the plant needs. For example, tomatoes need four square feet per plant.
+- Plants that need an entire square foot or more per plant do not have a spacing indicator. The size of the plant image shows how many square feet the plant needs.
 
 {{< alert icon="🌿" context="info" text="If you change the units in Planter to metric, the plant spacings remain the same. Planter indicates how many plants can be planted in roughly 1/10m²." />}}
 

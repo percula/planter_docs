@@ -10,11 +10,11 @@ Multi-select mode lets you edit multiple garden squares or plants at once. Multi
 
 {{< alert icon="🥕" context="info" text="You can't multi-select garden squares to move them around or add plants. Use Quick Plant to add multiples of the same type of plant." />}}
 
-1. Select the 'multi-select icon'
+1. Select the 'multi-select icon' <br />
 
-{{< screenshot Multi-select-icon.jpg "Screenshot of the multi-select icon" >}}<br />
+{{< screenshot Multi-select-icon.jpg "Screenshot of the multi-select icon" >}}<br /><br />
 
-2. Select either the ‘grid icon’ for **garden square multi-select** or the ‘plant icon’ for **plant multi-select**
+2. Select either the ‘grid icon’ for **garden square multi-select** or the ‘plant icon’ for **plant multi-select** <br />
 
 {{< screenshot Multi-select-selector.jpg "Screenshot of the grid and plant multi-select icons" >}}
 
@@ -26,7 +26,7 @@ Multi-select mode lets you edit multiple garden squares or plants at once. Multi
 
 4. Select an action for those squares (add notes and events, customize the background, or remove plants)
 
-{{< screenshot Multi-actions.jpg "Screenshot of icons for adding notes and events, customize the background, and remove plants " >}}<br />
+{{< screenshot Multi-actions.jpg "Screenshot of icons for adding notes and events, customize the background, and remove plants " >}}<br /><br />
 
 5. You can also long-press on a garden square and release to enter multi-select mode
 

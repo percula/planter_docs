@@ -1,5 +1,5 @@
 ---
-title: "How do I zoom in and move around my garden?"
+title: "How do I zoom in and move around in my garden?"
 description: "Learn how to adjust the zoom level and move around your garden"
 draft: false
 weight: 101
