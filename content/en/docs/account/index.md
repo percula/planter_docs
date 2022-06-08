@@ -1,6 +1,8 @@
 ---
 title: "Manage your account"
+description: How to login and manage your Premium subscription
 weight: 600
+draft: false
 url: "account"
 ---
 
