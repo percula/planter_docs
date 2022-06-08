@@ -5,19 +5,20 @@ draft: false
 weight: 101
 url: "garden/zoom-and-move"
 ---
-Have a large garden? Zoom in and move (pan) around to focus on different areas in the garden.
+Have a large garden that looks ity-bity on your screen?
 
-#### Zoom on a mobile device
+Zoom in and move around to focus on different areas in your garden.
+
+#### On a mobile device
 
 1. With two fingers on the screen, move them away from each other to zoom in or pinch them together to zoom out:
-
+<br />
 {{< screenshot Garden-zoom-out.jpg "Screenshot of a garden that is zoomed out" >}}<br /> <br />
 
-{{< screenshot Garden-zoom-in.jpg "Screenshot of a garden that is zoomed in" >}}<br />
+{{< screenshot Garden-zoom-in.jpg "Screenshot of a garden that is zoomed in" >}}<br /><br />
 
 2. When zoomed in, drag single finger across the screen to move around the garden
 
-
-#### Zoom on the web
+#### On the web
 
 1.
