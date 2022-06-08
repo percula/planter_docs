@@ -1,5 +1,5 @@
 ---
-title: "How do I add plants to my garden"
+title: "How do I add plants to my garden?"
 description: "Learn how to find plants and add them to your garden"
 draft: false
 weight: 201

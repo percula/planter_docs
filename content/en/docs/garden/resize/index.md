@@ -8,11 +8,11 @@ url: "garden/resize"
 
 To resize your garden:
 
-1. In the garden you want to resize, select the three dots (⋮) icon <br />
+1. In the garden you want to resize, select the **three dots (⋮)** icon <br />
 
 {{< screenshot Gardenthree-dots.jpg "Screenshot of the three dots icon" >}}<br /><br />
 
-2. Use the + and - icons on each side of the garden to increase or decrease the garden size on that side, then select Save:
+2. Use the **+** and **-** icons on each side of the garden to increase or decrease the garden size on that side, then select **Save**:
 
 {{< alert icon="🌶️" context="warning" text="Decreasing your garden size will cause plants that no longer fit in the space to be removed." />}}
 
