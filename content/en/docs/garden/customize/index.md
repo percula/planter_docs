@@ -18,7 +18,7 @@ To customize your garden in Planter:
 
 1. In your garden, select the square(s) you want to customize by long-pressing a single square to bring up multi-select mode, then selecting all the squares to be edited
 
-{{< screenshot Multi-sele-squares.jpg "Screenshot of a garden with multiple squares selected" >}}<br /><br />
+{{< screenshot Multi-select-squares.jpg "Screenshot of a garden with multiple squares selected" >}}<br /><br />
 
 2. With the square(s) selected, select the palette icon to customize the background (grass, stone, mulch) and foreground (raised bed edging, containers, hoses):
 
@@ -28,7 +28,7 @@ To customize your garden in Planter:
 
 {{< alert icon="🌱" context="info" text="Use the 'Raised Bed (Auto)' foreground to quickly surround all selected squares with edging." />}}
 
-{{< screenshot Mulch-backgrou.jpg "Screenshot of a garden with mulch background and raised bed foreground" >}}<br /><br />
+{{< screenshot Mulch-background.jpg "Screenshot of a garden with mulch background and raised bed foreground" >}}<br /><br />
 
 3. Select the rotate icon to rotate foreground elements:
 

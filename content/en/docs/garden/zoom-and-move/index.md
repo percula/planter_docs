@@ -11,9 +11,9 @@ Planning a large garden that looks itty bitty on your screen? Zoom in and move a
 
 1. With two fingers on the screen, move them away from each other to zoom in or pinch them together to zoom out:
 
-{{< screenshot Gardezoom-in.jpg "Screenshot of a garden that is zoomed in" >}}<br /><br />
+{{< screenshot Garden-zoom-in.jpg "Screenshot of a garden that is zoomed in" >}}<br /><br />
 
-{{< screenshot Gardezoom-out.jpg "Screenshot of a garden that is zoomed out" >}}<br /> <br />
+{{< screenshot Garden-zoom-out.jpg "Screenshot of a garden that is zoomed out" >}}<br /> <br />
 
 2. When zoomed in, drag single finger across the screen to move around the garden
 
