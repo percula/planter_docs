@@ -20,7 +20,7 @@ Ready to get planning? Planter makes it easy to find plants and add them to your
 
 {{< screenshot Plants-search.jpg "Screenshot of plant search" >}}
 
-{{< alert icon="🌶️" context="alert" text="Any filters that are applied will also filter the search results. Select **Show All** to see all search results." />}}
+{{< alert icon="🌶️" context="warning" text="Any filters that are applied will also filter the search results. Select **Show All** to see all search results." />}}
 
 3. Long-press on the plant you want to plant, hold and drag it onto the desired garden square
 
