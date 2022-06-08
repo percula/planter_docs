@@ -1,5 +1,5 @@
 ---
-title: "How do I resize my garden"
+title: "How do I resize my garden?"
 description: "Learn how to resize gardens in Planter"
 draft: false
 weight: 102
