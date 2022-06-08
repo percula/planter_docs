@@ -7,15 +7,15 @@ url: "getting-started"
 
 #### Getting started
 
-Everything you need to know to get up and running with Planter
+Everything you need to know to get up-and-running with Planter
 
 #### Garden navigation
 
-How to navigate, edit, and share your gardens in Planter
+Navigate, edit, and share your gardens in Planter
 
 #### Add plants and varieties
 
-How to add plants to your garden and create custom plants and varieties
+Add plants to your garden and create custom plants and varieties
 
 #### Plant care
 
@@ -23,15 +23,15 @@ Plant care information in Planter and where to find it
 
 #### Growing calendar
 
-How to use the Growing Calendar in Planter
+Use the Growing Calendar in Planter
 
-#### Notes and events
+#### Notes and Events
 
-How to use the Notes and Events Premium features
+Use the Notes and Events Premium features
 
 #### Manage your account
 
-How to manage your Planter account and Premium subscription
+Manage your Planter account and Premium subscription
 
 #### FAQ
 
