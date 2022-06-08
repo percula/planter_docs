@@ -13,11 +13,10 @@ Planter is available on [iOS](https://apps.apple.com/us/app/planter-garden-plann
 and [web](https://planter.garden/gardens) (most features on web are only available with a subscription).
 
 ## Set your frost dates
-
-{{< alert icon="❄️" context="info" text="It's important to set your frost dates in Planter for all features in the app to work properly. See 'How do I set my frost dates' for detailed steps to your frost dates." />}}
-
 1. Go to Settings
 2. Tap "Weather Station" and follow the prompts
+
+{{< alert icon="❄️" context="info" text="It's important to set your frost dates in Planter for all features in the app to work. See 'How do I set my frost dates' for detailed steps to your frost dates." />}}
 
 ## Creating your first garden
 1. Tap the "+ New Garden" button
