@@ -46,7 +46,7 @@ To reset your garden background:
 2. Select the palette icon
 3. Choose a new background and foreground, or leave the background and foreground empty to clear all customizations
 
-{{< alert icon="🌶️" context="warning" text="You can’t clear the foreground while leaving the background - either leave the background and foreground empty to clear all customizations, or select a new background and foreground." />}}
+{{< alert icon="🌶️" context="warning" text="You can’t clear just the foreground or the background - clear all customizations first then select a new background or foreground." />}}
 
 #### Video: Customization
 {{< youtube AjfhkyeWzsk>}}
