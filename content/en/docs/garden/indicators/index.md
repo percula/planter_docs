@@ -16,7 +16,7 @@ Compatibility indicators are the green, red, and yellow circles (and quarter-cir
 
 - **Red circles** between plants means they are combative and shouldn't be planted next to each other.
 
-{{< alert icon="🌱" context="info" text="Red circles have a darker inner circle to help color-blind gardeners identify them." />}}
+{{< alert icon="🍅" context="info" text="Red circles have a darker inner circle to help color-blind gardeners identify them." />}}
 
 - **Yellow circles** mean that some varieties of the plants are companions while others are combative.
 
@@ -32,7 +32,7 @@ Planter shows you many plants can be planted per-square-foot by showing a number
 
 - Plants that need an entire square foot or more per plant do not have a spacing indicator. The size of the plant image shows how many square feet the plant needs.
 
-{{< alert icon="🌿" context="info" text="If you change the units in Planter to metric, the plant spacings remain the same. Planter indicates how many plants can be planted in roughly 1/10m²." />}}
+{{< alert icon="🌱" context="info" text="If you change the units in Planter to metric, the plant spacings remain the same. Planter indicates how many plants can be planted in roughly 1/10m²." />}}
 
 #### Notes and Events indicators
 If you added a note or an event to a plant in your garden, a Notes and Events indicator will appear on that plant.<br /><br />

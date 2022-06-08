@@ -7,7 +7,7 @@ url: "garden/zoom-and-move"
 ---
 Planning a large garden that looks itty bitty on your screen? Zoom in and move around to focus on different areas in your garden.
 
-#### On a mobile device
+#### Zoom on mobile
 
 1. With two fingers on the screen, move them away from each other to zoom in or pinch them together to zoom out:
 
@@ -17,6 +17,6 @@ Planning a large garden that looks itty bitty on your screen? Zoom in and move a
 
 2. When zoomed in, drag single finger across the screen to move around the garden
 
-#### On the web
+#### Zoom on the web
 
 1.

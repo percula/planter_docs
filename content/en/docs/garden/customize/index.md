@@ -1,6 +1,6 @@
 ---
 title: "How can I customize my garden?"
-description: "Learn how to customize gardens in Planter"
+description: "Learn how to customize your gardens and clear customizations"
 draft: false
 weight: 107
 url: "garden/customize"
@@ -47,6 +47,3 @@ To reset your garden background:
 3. Choose a new background and foreground, or leave the background and foreground empty to clear all customizations
 
 {{< alert icon="🌶️" context="warning" text="You can’t clear just the foreground or the background - clear all customizations first then select a new background or foreground." />}}
-
-#### Video: Customization
-{{< youtube AjfhkyeWzsk>}}
