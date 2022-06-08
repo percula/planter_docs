@@ -8,9 +8,9 @@ url: "garden/customize"
 
 Customize your garden in Planter by adding raised beds, containers, mulch, and more!
 
-{{< screenshot Customized-garden.jpg "Screenshot of a customized garden in Planter" >}}
-
 {{< alert icon="💸" context="info" text="Customizing your garden is a Premium feature." />}}
+
+{{< screenshot Customized-garden.jpg "Screenshot of a customized garden in Planter" >}}
 
 {{< alert icon="🥕" context="info" text="Customizations in Planter are visuals - they do not affect plant spacing or compatibility indicators." />}}
 

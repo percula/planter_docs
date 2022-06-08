@@ -6,7 +6,9 @@ weight: 106
 url: "garden/undo-redo"
 ---
 
-Made a mistake in your garden? No sweat! You can undo (or redo) your **9 most recent actions** (including adding and removing plants, adding notes and events, and customizing backgrounds).
+Made a mistake in your garden? No sweat!
+
+You can undo (or redo) your **9 most recent actions** (including adding and removing plants, adding notes and events, and customizing backgrounds).
 
 {{< alert icon="🌶️" context="warning" text="You won’t able to undo or redo your actions after leaving a garden or closing Planter." />}}
 
