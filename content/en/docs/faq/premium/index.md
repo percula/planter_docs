@@ -5,20 +5,16 @@ weight: 702
 url: "faq/premium"
 ---
 
-{{< alert icon="💸" context="info" text="Answers to your subscription questions <a href=\"../account#subscriptions\">here</a>." />}}
+A Premium subscription to Planter includes:
 
-## A Premium subscription to Planter includes:
+💻 [Planter web app](https://planter.garden/gardens)
 
 ♾ Unlimited gardens
 
 🚫 No ads
 
-📝 Notes
+📅 Notes and Events: Keep track of when you start seeds, water, fertilize, and more
 
-📅 Events: Keep track of when you start seeds, water, fertilize, and more
-
-🎨 Custom backgrounds: Mulch, trellises, and more
-
-💻 [Web app](https://planter.garden/gardens)
+🎨 Custom backgrounds: Mulch, raised beds, trellises, and more
 
 😊 A warm, fuzzy feeling for supporting the app developer

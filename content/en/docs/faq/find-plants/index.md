@@ -5,7 +5,8 @@ url: "faq/find-plants"
 weight: 703
 ---
 
-These are listed in the varieties tab of the plant. For example, jalapeño peppers are a variety of
-peppers [here](https://planter.garden/plants/peppers?tab=1).
+These are listed in the Varieties tab- Zucchini is a variety of squash and green onions are a variety of onions.
 
-{{< screenshot variety.webp "Varieties tab showing zucchini for squash" >}}
+{{< alert icon="🧅" context="info" text="See 'Varieties' to learn more about how to use varieties in Planter." />}}
+
+{{< screenshot variety.webp "Varieties tab showing zucchini as a variety of squash" >}}
