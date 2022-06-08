@@ -4,15 +4,15 @@ description: "Learn how to mutli-select plants and garden squares"
 weight: 104
 url: "garden/multi-select"
 ---
-Multi-select mode lets you edit multiple garden squares or plants at once. Multi-select is used for removing plants, adding notes and events, or customizing backgrounds.
+Multi-select mode lets you edit multiple garden squares or plants at once. Multi-select is used to remove plants, add notes and events, or customize backgrounds.
 
-{{< alert icon="🥕" context="info" text="You cannot multi-select garden squares to move them around or add plants. Use ‘quick plant’ to add many of the same types of plants." />}}
+{{< alert icon="🥕" context="info" text="You cannot multi-select garden squares to move them around or add plants. Use Quick Plant to add many of the same type of plant." />}}
 
 {{< alert icon="💸" context="info" text="Notes and Events and custom backgrounds are Premium features." />}}
 
 1. Select the 'multi-select icon'
 
-{{< screenshot Multi-select-icon.jpg "Screenshot of the multi-select icon" >}}
+{{< screenshot Multi-select-icon.jpg "Screenshot of the multi-select icon" >}}<br />
 
 2. In the selector that appears, select either the ‘grid icon’ for garden square multi-select or the ‘plant icon’ for plant multi-select
 
@@ -22,11 +22,11 @@ Multi-select mode lets you edit multiple garden squares or plants at once. Multi
 
 3. Select additional garden squares or plants to be edited
 
-{{< screenshot Selected-squares.jpg "Screenshot of a garden with three garden squares selected" >}}
+{{< screenshot Selected-squares.jpg "Screenshot of a garden with three garden squares selected" >}}<br />
 
 4. Select an action for those squares (add notes and events, customize the background, or remove plants)
 
-{{< screenshot Multi-actions.jpg "Screenshot of icons for adding notes and events, customize the background, and remove plants " >}}
+{{< screenshot Multi-actions.jpg "Screenshot of icons for adding notes and events, customize the background, and remove plants " >}}<br />
 
 5. You can also long-press on a garden square and release to enter multi-select mode
 
