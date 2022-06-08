@@ -1,21 +1,33 @@
 ---
-title: "How can I multi-select plants and garden squares?"
+title: "How do I multi-select plants and garden squares?"
 description: "Learn how to mutli-select plants and garden squares"
 weight: 104
 url: "garden/multi-select"
 ---
+Multi-select mode lets you edit multiple garden squares or plants at once. Multi-select is used for removing plants, adding notes and events, or customizing backgrounds.
 
-{{< alert icon="🌱" context="info" text="Check out the <a href=\"../quick-start\">quick start guide</a> to create your first garden and add plants." />}}
+{{< alert icon="🥕" context="info" text="You cannot multi-select garden squares to move them around or add plants. Use ‘quick plant’ to add many of the same types of plants." />}}
 
-## Multi-select mode
+{{< alert icon="💸" context="info" text="Notes and Events and custom backgrounds are Premium features." />}}
 
-When in multi-select mode (long press on any square or plant to enter multi-select mode), two icons appear:
+1. Select the 'multi-select icon'
 
-![Multi select mode icons](multi_select_icons.png)
+{{< screenshot Multi-select-icon.jpg "Screenshot of the multi-select icon" >}}
 
-When the plant icon is selected, that means when you tap to select, you'll be selecting plants.
-This really only matters for large plants, such as tomatoes; when a tomato is selected it'll
-highlight all 4 squares. If the grid was selected, you'd select just single squares, regardless
-of the plants that are there. The grid icon is best for changing backgrounds whereas the plant
-icon is best for adding notes or deleting plants. When you're in either selection mode, the add
-plant icon disappears because it currently isn't possible to add plants to all selected squares.
+2. In the selector that appears, select either the ‘grid icon’ for garden square multi-select or the ‘plant icon’ for plant multi-select
+
+{{< screenshot Multi-select-selector.jpg "Screenshot of the grid and plant multi-select icons" >}}
+
+{{< alert icon="🌱" context="info" text="Plant multi-select is more efficient for removing plants, as it will select the larger plants that take up multiple garden squares at once." />}}
+
+3. Select additional garden squares or plants to be edited
+
+{{< screenshot Selected-squares.jpg "Screenshot of a garden with three garden squares selected" >}}
+
+4. Select an action for those squares (add notes and events, customize the background, or remove plants)
+
+{{< screenshot Multi-actions.jpg "Screenshot of icons for adding notes and events, customize the background, and remove plants " >}}
+
+5. You can also long-press on a garden square and release to enter multi-select mode
+
+{{< alert icon="🍅" context="info" text="Long-pressing on a garden square containing a plant will automatically engage plant multi-select." />}}
