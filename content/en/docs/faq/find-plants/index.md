@@ -5,7 +5,7 @@ url: "faq/find-plants"
 weight: 703
 ---
 
-These are listed in the Varieties tab: Zucchini is a variety of squash and green onions are a variety of onions.
+These are listed in the Varieties tab: zucchini is a variety of squash and green onions are a variety of onions.
 
 {{< alert icon="🧅" context="info" text="See 'Varieties' to learn more about how to use varieties in Planter." />}}
 

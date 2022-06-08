@@ -7,6 +7,6 @@ weight: 704
 
 Looking for a plant that is not in Planter yet?  
 
-Use the [Plants and Feature Requests](https://planter.garden/requests) tool, which you can find in [Settings](https://planter.garden/settings). If the plant you're looking for has already been requested, please upvote it! This helps us prioritize which plants to add. 
+Use the [Plants and Feature Requests](https://planter.garden/requests) tool (find it in [Settings](https://planter.garden/settings) in the app). If the plant you're looking for has already been requested, please upvote it! This helps us prioritize which plants to add.
 
-While you're waiting for it to be added, you can [add a custom plant or variety](../customization).
+{{< alert icon="🌱" context="info" text="While you're waiting for a plant to be added, you can [add a custom plant or variety](../customization)." />}}
