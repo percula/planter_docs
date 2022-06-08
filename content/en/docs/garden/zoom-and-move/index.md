@@ -18,7 +18,3 @@ Planning a large garden that looks itty bitty on your screen? Zoom in and move a
 3. Pinch two fingers together on the screen to zoom out
 
 {{< screenshot Garden-zoomout.jpg "Screenshot of a garden that is zoomed out" >}}<br /> <br />
-
-#### Zoom on the web
-
-1.
