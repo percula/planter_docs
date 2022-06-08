@@ -6,9 +6,9 @@ weight: 103
 url: "garden/rename"
 ---
 
-To rename your garden in Planter:
+To rename your garden:
 
-1. In the Gardens screen, the three dots icon beside the garden you want to rename
+1. In the Gardens list, the three dots icon beside the garden you want to rename
 
 {{< screenshot Garden-list-dots.jpg "Screenshot of a garden name with the three dots icon" >}}<br /><br />
 
