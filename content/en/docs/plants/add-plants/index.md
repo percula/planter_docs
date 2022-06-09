@@ -40,8 +40,6 @@ Ready to get planning? Planter makes it easy to find plants and add them to your
 
 5. With **Quick plant** mode enabled, after dragging a plant to the desired garden square continue selecting squares to add more of that plant
 
-{{< screenshot Quick-plant-icon.jpg "Screenshot of the quick plant icon" >}}<br /><br />
-
 6. Click the **X** to stop quick planting
 
 {{< screenshot Exit-quick-plant.jpg "Screenshot of the exit Quick Plant icon" >}}
