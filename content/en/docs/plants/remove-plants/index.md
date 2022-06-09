@@ -12,6 +12,8 @@ To remove plants from your garden:
 
 {{< screenshot Delete-plant.jpg "Screenshot of carrots being deleted" >}}<br /><br />
 
-2. To clear plants from multiple garden squares, long-press and release to **Multi-select**
+2. To clear plants from multiple garden squares, long-press and release on a plant to engage **Multi-select** mode
+
+3. Select the plants to be removed then select the **Garbage bin** icon
 
 {{< screenshot Multi-delete.jpg "Screenshot of multiple plantings of carrots being deleted" >}}

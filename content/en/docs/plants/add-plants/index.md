@@ -14,6 +14,8 @@ Ready to get planning? Planter makes it easy to find plants and add them to your
 
 2. Find plants: sort and filter to organize and narrow down the list of plants, and use search to find a specific plant:
 
+{{< screenshot Plants-search-bar.jpg "Screenshot of the plant search bar" >}}<br /><br />
+
 {{< screenshot Plants-sort.jpg "Screenshot of plant sorting options" >}}<br /><br />
 
 {{< screenshot Plants-filter.jpg "Screenshot of plant filter options" >}}<br /><br />
