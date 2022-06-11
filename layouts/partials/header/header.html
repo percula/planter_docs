@@ -13,7 +13,7 @@
 <!--    <a class="navbar-brand p-0 me-auto" href="{{ "/" | relLangURL }}" aria-label="{{ .Site.Params.Title }}">-->
 <!--      {{ .Site.Params.Title }}-->
 <!--    </a>-->
-    <a class="nav-link me-auto" href="{{ "/" | relLangURL }}"><div style="margin-bottom:8px;">{{ .Site.Params.Logo | safeHTML }}</div></a>
+    <a class="nav-link me-auto" href="{{ .Site.Params.LogoUrl | absLangURL }}"><div style="margin-bottom:8px;">{{ .Site.Params.Logo | safeHTML }}</div></a>
 
 
     <button class="btn btn-menu d-block d-md-none order-5" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDoks" aria-controls="offcanvasDoks" aria-label="Open main menu">
