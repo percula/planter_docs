@@ -41,10 +41,3 @@
   port = 8888
   publish = "public"
   autoLaunch = false
-
-## This rule redirects to an external API, signing requests with a secret
-[[redirects]]
-  from = "/eula"
-  to = "https://planter.garden/eula"
-  status = 200
-  force = true
