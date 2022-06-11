@@ -18,7 +18,7 @@
   name = "Get Planter"
   weight = 40
   identifier = "get-planter"
-  url = "https://planter.garden"
+  url = "https://planter.garden/#download"
 
 [[social]]
   name = "Youtube"
