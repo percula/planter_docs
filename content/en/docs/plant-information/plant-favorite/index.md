@@ -2,15 +2,15 @@
 title: "How do I mark a plant as a favorite?"
 description: "Learn how to mark plants as favorites and find favorite plants"
 draft: false
-weight: 204
-url: "plants/favorite-plants"
+weight: 303
+url: "plant-information/favorite-plants"
 ---
 
 Mark plants as favorites to make them easier to find!
 
 1. Select **Plants** from the menu bar
 
-{{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br />
+{{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br />
 
 2. Find plants: sort and filter to organize and narrow down the list of plants, and use search to find a specific plant:
 
@@ -20,7 +20,7 @@ Mark plants as favorites to make them easier to find!
 
 {{< screenshot Plants-filter.jpg "Screenshot of plant filter options" >}}<br /><br />
 
-{{< screenshot Plants-search.jpg "Screenshot of plant search" >}}
+{{< screenshot Search-peppers.jpg "Screenshot of plant search for peppers" >}}
 
 {{< alert icon="🌶️" context="warning" text="Any filters that are applied will also filter the search results. Select **Show All** to see all search results." />}}
 

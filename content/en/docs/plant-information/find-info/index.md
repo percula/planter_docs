@@ -3,7 +3,7 @@ title: "Where can I find plant care information in Planter?"
 description: "How to find plant care information in Planter"
 draft: false
 weight: 302
-url: "plant-care/find-info"
+url: "plant-information/find"
 ---
 
 Plant care information is found on the **How to Grow** tab of each plant in Planter.
@@ -13,7 +13,7 @@ Plant care information is found on the **How to Grow** tab of each plant in Plan
 To find plant care information in Planter:
 1. Select **Plants** from the menu bar
 
-{{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br />
+{{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br />
 
 2. Sort and filter to organize and narrow down the list of plants; use search to find a specific plant:
 
@@ -23,7 +23,7 @@ To find plant care information in Planter:
 
 {{< screenshot Plants-filter.jpg "Screenshot of plant filter options" >}}<br /><br />
 
-{{< screenshot Plants-search.jpg "Screenshot of plant search" >}}
+{{< screenshot Search-carrots.jpg "Screenshot of plant search for carrots" >}}
 
 {{< alert icon="🌶️" context="alert" text="Any filters that are applied will also filter the search results. Select **Show All** to see all search results." />}}
 
