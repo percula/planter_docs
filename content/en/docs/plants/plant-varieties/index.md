@@ -20,7 +20,7 @@ To add plants with a specific variety:
 
 {{< screenshot Varieties-tomatoes.jpg "Screenshot of the Vartieties tab for tomatoes" >}}<br /><br />
 
-4. Find the varieties you are interested in adding: sort and filter to organize and narrow down the list of plants, and use search to find a specific plant:
+4. Find the varieties you are interested in adding: filter and sort to organize and narrow down the list of varieties, and use search to find a specific variety:
 
 {{< screenshot Varieties-search-bar.jpg "Screenshot of the varieties search bar" >}}<br /><br />
 
@@ -28,15 +28,19 @@ To add plants with a specific variety:
 
 {{< screenshot Varieties-sort.jpg "Screenshot of varieties sorting options" >}}<br /><br />
 
-{{< screenshot Search-brandywine.jpg "Screenshot of variety search for brandywine tomatoes" >}}
+{{< screenshot Varieties-search-brandywine.jpg "Screenshot of variety search for brandywine tomatoes" >}}
 
-{{< alert icon="🌶️" context="warning" text="Any filters that are applied will also filter the search results." />}}
+{{< alert icon="🌶️" context="warning" text="Any filters that are applied will also filter the search results. Select "Show All" and be sure all sources are selected to see all varieties." />}}
 
-{{< alert icon="🥕️" context="info" text="Don’t see the variety you are looking for? <a href=https://planter.garden/requests>Submit (or upvote!) a plant request</a> or <a href=https://staging2--planter-docs.netlify.app/add-plants/customization/#creating-custom-varieties>create a custom plant</a>." />}}
+{{< alert icon="🥕️" context="info" text="Don’t see the variety you are looking for? <a href=https://planter.garden/requests>Submit (or upvote!) a variety request</a> or <a href=https://staging2--planter-docs.netlify.app/add-plants/customization/#creating-custom-varieties>create a custom plant</a>." />}}
 
 5. To see more varieties at once, change the view to **Condensed**
 
+{{< screenshot Varieties-change-view.jpg "Screenshot of variety view selections" >}}
+
 6. Favorite the varieties you want to plant by selecting the **Heart** icon; set a default variety by selecting the **Circle** icon:
+
+{{< screenshot Search-brandywine.jpg "Screenshot of variety search for brandywine tomatoes" >}}
 
 7. Select the **Back** arrow to return to the plants list
 
