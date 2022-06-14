@@ -38,11 +38,13 @@ To add plants with a specific variety:
 
 {{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}
 
-6. Favorite the varieties you want to plant by selecting the **Heart** icon; set a default variety by selecting the **Circle** icon:
+6. Favorite the varieties you want to plant by selecting the **Heart** icon; set a default variety by selecting the **Circle** icon
 
-
+{{< screenshot Varieties-favorite.jpg "Screenshot of the heart icon and the favorite icon for varieties" >}}
 
 7. Select the **Back** arrow to return to the plants list
+
+{{< screenshot Varieties-back-arrow.jpg "Screenshot of the back arrow to exit the varieties screen" >}}
 
 8. If you selected a default variety, you will see it listed under the plant. To change the variety you want to use, select the down arrow below the plant
 
