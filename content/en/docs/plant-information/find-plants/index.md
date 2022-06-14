@@ -3,7 +3,7 @@ title: "Where can I find plant care information in Planter?"
 description: "How to find plant care information in Planter"
 draft: false
 weight: 302
-url: "plant-information/find"
+url: "plant-information/find-plants"
 ---
 
 Plant care information is found on the **How to Grow** tab of each plant in Planter.
