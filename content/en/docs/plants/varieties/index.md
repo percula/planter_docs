@@ -23,9 +23,7 @@ To add specific varieties of plants to your garden:
 {{< screenshot Varieties-filter.jpg "Screenshot of variety filter options" >}}<br /><br />
 {{< screenshot Varieties-sort.jpg "Screenshot of varieties sorting options" >}}<br /><br />
 {{< screenshot Varieties-search-brandywine.jpg "Screenshot of variety search for brandywine tomatoes" >}}
-
 {{< alert icon="🌶️" context="warning" text="Any filters that are applied will also filter the search results. Select **Show All** and be sure all sources are selected to see all varieties." />}}
-
 {{< alert icon="🍅" context="info" text="Don’t see the variety you are looking for? Submit (or upvote!) a variety request or create a custom plant." />}}
 
 5. To see more varieties at once, change the view to **Dense**
@@ -40,11 +38,8 @@ To add specific varieties of plants to your garden:
 8. If you specified a default variety, it will be listed under the plant. To change the variety, select the down arrow below the plant and select either a **Recently Selected** or **Favorite** variety, or **Choose** another variety
 {{< screenshot Plant-with-variety.jpg "Screenshot of the back arrow to exit the varieties screen" >}}<br /><br />
 {{< screenshot Plant-varieties-dropdown.jpg "Screenshot of a dropdown showing recently added and favorite plant varieties" >}}
-
 {{< alert icon="🧄" context="info" text="Don't want to add a specific variety after all? Choose **No variety** to clear variety selections" />}}
 
 9. Long press on the plant to add it to your garden. To see which variety you added, select the plant in your garden and refer to the 'Variety Selected' section
-
-{{< screenshot Cherry-tomatoes.jpg "Screenshot of cherry tomatoes planted in a garden" >}}
-
+{{< screenshot Cherry-tomatoes.jpg "Screenshot of cherry tomatoes planted in a garden" >}}<br /><br />
 {{< screenshot Tomatoes-selected-variety.jpg "Screenshot showing cherry tomatoes as the selected tomato variety" >}}
