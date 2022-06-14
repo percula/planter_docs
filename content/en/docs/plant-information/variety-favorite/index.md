@@ -21,7 +21,8 @@ Mark varieties as favorites to make them easier to find!
 {{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}<br /><br /><br />
 4. Favorite varieties selecting the **Heart** icon beside them
 {{< screenshot Favorite-icon.jpg "Screenshot of the heart icon for varieties" >}}<br /><br /><br />
-5. To see the varieties you have marked as favorites, first find the plant in the **Plants** list then either select the **Down arrow** below the plant, or filter the **Varieties** tab for **Favorites**: 
-{{< screenshot Plant-varieties-dropdown.jpg "Screenshot of a dropdown showing favorite plant varieties" >}}<br /><br /><br />
-{{< screenshot Favorite-filter.jpg "Screenshot of " >}}<br /><br /><br />
-{{< screenshot Favorites-list.jpg "Screenshot of " >}}
+5. To see the varieties you have marked as favorites, find the plant in the **Plants** list then either select the **Down arrow** below the plant, or filter the **Varieties** tab for **Favorites**:
+{{< screenshot Plant-varieties-arrow.jpg "Screenshot of the variety dropdown arrow underneath tomatoes" >}}<br /><br /><br />
+{{< screenshot Plant-varieties-dropdown.jpg "Screenshot of a dropdown menu showing favorite plant varieties" >}}<br /><br /><br />
+{{< screenshot Favorite-filter.jpg "Screenshot of the favorite filter for varities" >}}<br /><br /><br />
+{{< screenshot Favorites-list.jpg "Screenshot of a list of favorited tomato varieties" >}}

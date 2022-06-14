@@ -18,7 +18,7 @@ To add specific varieties of plants to your garden:
 
 
 3. Quick-press on the plant, then select the **Varieties** tab
-{{< screenshot Varieties-tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br /><br />
+{{< screenshot Varieties_tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br /><br />
 
 4. Find the varieties you are interested in adding: filter and sort to organize and narrow down the list of varieties, and use search to find a specific variety:
 {{< screenshot Varieties-search-bar.jpg "Screenshot of the varieties search bar" >}}<br /><br /><br />
