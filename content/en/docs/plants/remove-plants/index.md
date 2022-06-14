@@ -16,4 +16,5 @@ To remove plants from your garden:
 
 3. Select the plants to be removed then select the **Garbage bin** icon
 
+
 {{< screenshot Multi-delete.jpg "Screenshot of multiple plantings of carrots being deleted" >}}

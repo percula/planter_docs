@@ -8,7 +8,7 @@ url: "plants/add-plants"
 
 Ready to get planning? Planter makes it easy to find plants and add them to your garden.
 
-1. In your garden, select the **Add Plants** button
+1. In your garden, select the **+ Add Plants** button
 
 {{< screenshot Add-plants.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
 
@@ -30,7 +30,7 @@ Ready to get planning? Planter makes it easy to find plants and add them to your
 
 {{< alert icon="🥦" context="info" text="Selecting the plant quickly will bring up the **How to Grow** information - in case you want to learn more about it before adding it to your garden!" />}}
 
-{{< alert icon=🥕️" context="info" text="Don’t see the plant you are looking for? <a href=https://planter.garden/requests>Submit (or upvote!) a plant request</a> or <a href=https://staging--planter-docs.netlify.app/add-plants/customization/#creating-custom-plants>create a custom plant</a>." />}}
+{{< alert icon="🥕️" context="info" text="Don’t see the plant you are looking for? <a href=https://planter.garden/requests>Submit (or upvote!) a plant request</a> or <a href=https://staging2--planter-docs.netlify.app/add-plants/customization/#creating-custom-plants>create a custom plant</a>." />}}
 
 4. To plant multiples of the same plant quickly, select the **Quick plant** icon before adding plants:
 

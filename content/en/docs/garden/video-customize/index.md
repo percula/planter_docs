@@ -1,5 +1,5 @@
 ---
-title: "Video: Garden customization"
+title: "Video: garden customization"
 description: "A short video showing how to customize gardens"
 draft: false
 weight: 107
