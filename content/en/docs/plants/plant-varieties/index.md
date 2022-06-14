@@ -34,7 +34,9 @@ To add plants with a specific variety:
 
 {{< alert icon="🥕️" context="info" text="Don’t see the variety you are looking for? <a href=https://planter.garden/requests>Submit (or upvote!) a variety request</a> or create a custom plant." />}}
 
-5. To see more varieties at once, **Condense** the view
+5. To see more varieties at once, change the view to **Dense**
+
+{{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}
 
 
 6. Favorite the varieties you want to plant by selecting the **Heart** icon; set a default variety by selecting the **Circle** icon:
