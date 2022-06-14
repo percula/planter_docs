@@ -1,12 +1,12 @@
 ---
-title: "How can I add different plant varieties in my garden?"
-description: "Learn about adding different varieties of plants in your garden"
+title: "How can I add different varieties of plants to my garden?"
+description: "Learn how to add different varieties of plants to your garden"
 draft: false
 weight: 204
 url: "plants/plant-varieties"
 ---
 
-Trying to remember whether that tomato plant was a beefsteak or a brandywine?  Use varieties when planning your garden!
+Trying to recall whether that tomato plant was a beefsteak or a brandywine?  Use varieties when planning your garden in Planter!
 
 To add plants with a specific variety:
 
