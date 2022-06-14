@@ -44,7 +44,7 @@ To add specific varieties of plants to your garden:
 {{< screenshot Plant-with-variety.jpg "Screenshot of the back arrow to exit the varieties screen" >}}<br /><br />
 {{< screenshot Plant-varieties-dropdown.jpg "Screenshot of a dropdown showing recently added and favorite plant varieties" >}}
 
-{{< alert icon="🧄" context="info" text="Don't want to add a specific variety after all? Choose "No variety" to clear variety selections. />}}
+{{< alert icon="🧄" context="info" text="Don't want to add a specific variety after all? Choose **No variety** to clear variety selections" />}}
 
 9. Long press on the plant to add it to your garden. To see which variety you added, select the plant in your garden and refer to the 'Variety Selected' section
 
