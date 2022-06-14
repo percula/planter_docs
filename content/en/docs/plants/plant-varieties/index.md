@@ -32,7 +32,7 @@ To add plants with a specific variety:
 
 {{< alert icon="🌶️" context="warning" text="Any filters that are applied will also filter the search results. Select "Show All" and be sure all sources are selected to see all varieties." />}}
 
-{{< alert icon="🥕️" context="info" text="Don’t see the variety you are looking for? <a href=https://planter.garden/requests>Submit (or upvote!) a variety request</a> or <a href=https://staging2--planter-docs.netlify.app/add-plants/customization/#creating-custom-varieties>create a custom plant</a>." />}}
+{{< alert icon="🥕️" context="info" text="Don’t see the variety you are looking for? <a href=https://planter.garden/requests>Submit (or upvote!) a variety request</a> or <a href=https://staging2--planter-docs.netlify.app>create a custom plant</a>." />}}
 
 5. To see more varieties at once, change the view to **Condensed**
 
