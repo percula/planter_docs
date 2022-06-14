@@ -12,7 +12,7 @@ To add plants with a specific variety:
 
 1. In your garden, select the **+ Add Plants** button
 
-2. <a href=https://staging2--planter-docs.netlify.app/plants/add-plants>Find the plant</a> you are interested in adding
+2. <a href=https://planter.garden/requests>Find the plant</a> you are interested in adding
 
 3. Quick-press on the plant, then select the **Varieties** tab
 
