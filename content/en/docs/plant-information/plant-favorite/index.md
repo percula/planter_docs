@@ -9,23 +9,11 @@ url: "plant-information/favorite-plants"
 Mark plants as favorites to make them easier to find!
 
 1. Select **Plants** from the menu bar
-
-{{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br />
-
-2. Find plants: sort and filter to organize and narrow down the list of plants, and use search to find a specific plant:
-
-{{< screenshot Plants-search-bar.jpg "Screenshot of the plant search bar" >}}<br /><br />
-
-{{< screenshot Plants-sort.jpg "Screenshot of plant sorting options" >}}<br /><br />
-
-{{< screenshot Plants-filter.jpg "Screenshot of plant filter options" >}}<br /><br />
-
-{{< screenshot Search-peppers.jpg "Screenshot of plant search for peppers" >}}
-
-{{< alert icon="🌶️" context="warning" text="Any filters that are applied will also filter the search results. Select **Show All** to see all search results." />}}
-
+{{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br /><br />
+2. Find the plant(s) you want to mark as favorites
 3. Select the plant, then select the **Heart** icon beside the plant name:
-
-{{< screenshot Plant-favorite.jpg "Screenshot of a plant with the heart icon unselected" >}}<br /><br />
-
-{{< screenshot Plant-favorited.jpg "Screenshot of a plant with the heart icon selected" >}}
+{{< screenshot Plant-favorite.jpg "Screenshot of a plant with the heart icon unselected" >}}<br /><br /><br />
+{{< screenshot Plant-favorited.jpg "Screenshot of a plant with the heart icon selected" >}}<br /><br /><br />
+4. To see all the plants you have favorited, apply the **Favorites** filter on the **Plants** list
+{{< screenshot Plant-filter-icon.jpg "Screenshot of the plant filter icon" >}}<br /><br /><br />
+{{< screenshot Favorite-filter.jpg "Screenshot of the filter menu with Favorites selected" >}}
