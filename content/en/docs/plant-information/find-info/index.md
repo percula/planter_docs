@@ -25,7 +25,7 @@ To find plant care information in Planter:
 
 {{< screenshot Search-carrots.jpg "Screenshot of plant search for carrots" >}}
 
-{{< alert icon="🌶️" context="alert" text="Any filters that are applied will also filter the search results. Select **Show All** to see all search results." />}}
+{{< alert icon="🌶️" context="warning" text="Any filters that are applied will also filter the search results. Select **Show All** to see all search results." />}}
 
 3. Select the plant to see the **How to Grow** information:
 
