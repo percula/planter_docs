@@ -8,7 +8,7 @@ url: "garden/rename"
 
 To rename your garden:
 
-1. In the Gardens list, the **three dots (⋮)** icon beside the garden you want to rename
+1. In the Gardens list, the **Three dots (⋮)** icon beside the garden you want to rename
 {{< screenshot Garden-list-dots.jpg "Screenshot of a garden name with the three dots icon" >}}<br /><br /><br />
 
 2. Enter the new garden name and select **Ok**:

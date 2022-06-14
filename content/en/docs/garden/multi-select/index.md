@@ -11,7 +11,7 @@ Multi-select mode lets you edit multiple garden squares or plants at once. Multi
 1. Select the **Multi-select icon**
 {{< screenshot Multi-select-icon.jpg "Screenshot of the multi-select icon" >}}<br /><br /><br />
 
-2. Select either the **Grid icon** for garden square multi-select or the **plant icon** for plant multi-select
+2. Select either the **Grid icon** for garden square multi-select or the **Plant icon** for plant multi-select
 {{< screenshot Multi-select-selector.jpg "Screenshot of the grid and plant multi-select icons" >}}
 {{< alert icon="🌱" context="info" text="Plant multi-select is more efficient for removing plants, as it will select the larger plants that take up multiple garden squares at once." />}}
 
