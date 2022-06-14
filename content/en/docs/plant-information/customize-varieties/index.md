@@ -1,9 +1,9 @@
 ---
-title: "Customizing variety information"
-description: "How to edit existing varieties and create custom varieties"
-weight: 307
+title: "How can I customize variety information?"
+description: "Learn how to customize information for existing varieties"
+weight: 309
 draft: false
-url: "plant-information/custom-varieties"
+url: "plant-information/customize-varieties"
 ---
 
 ### Creating custom varieties

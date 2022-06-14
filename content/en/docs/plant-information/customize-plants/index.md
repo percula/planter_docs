@@ -1,9 +1,9 @@
 ---
-title: "Customizing plant information"
-description: "How can I edit plants or create custom plants?"
+title: "How can I customize plant information?"
+description: "Learn how to customize information for existing plants"
 weight: 306
 draft: false
-url: "plant-information/custom-plants"
+url: "plant-information/customize-plants"
 ---
 
 You can customize any of the information on existing plants, including the icon and image:
@@ -32,5 +32,3 @@ If the app does not have a plant you are planting, you can add a custom plant:
 3. Optionally add a description and other information.
 5. Optionally choose an icon and image.
 5. Tap "Save".
-
-{{< youtube PI3BeHTM2QU >}}
