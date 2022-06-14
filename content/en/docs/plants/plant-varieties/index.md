@@ -18,7 +18,7 @@ To add plants with a specific variety:
 
 3. Quick-press on the plant, then select the **Varieties** tab
 
-{{< screenshot Varieties-tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
+{{< screenshot Add-plants.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
 4. Find the varieties you are interested in adding: filter and sort to organize and narrow down the list of varieties, and use search to find a specific variety:
 
@@ -40,7 +40,7 @@ To add plants with a specific variety:
 
 6. Favorite the varieties you want to plant by selecting the **Heart** icon; set a default variety by selecting the **Circle** icon
 
-{{< screenshot Varieties-favorite.jpg "Screenshot of the heart icon and the favorite icon for varieties" >}}
+{{< screenshot Add-plants.jpg "Screenshot of the heart icon and the favorite icon for varieties" >}}
 
 7. Select the **Back** arrow to return to the plants list
 
