@@ -12,23 +12,13 @@ To add plants with a specific variety:
 
 1. In your garden, select the **+ Add Plants** button
 
-{{< screenshot Add-plants.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
-
 2. <a href=https://staging2--planter-docs.netlify.app/plants/add-plants>Find the plant</a> you are interested in adding
 
 3. Quick-press on the plant, then select the **Varieties** tab
 
-{{< screenshot Add-plants.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
 4. Find the varieties you are interested in adding: filter and sort to organize and narrow down the list of varieties, and use search to find a specific variety:
 
-{{< screenshot Varieties-search-bar.jpg "Screenshot of the varieties search bar" >}}<br /><br />
-
-{{< screenshot Varieties-filter.jpg "Screenshot of variety filter options" >}}<br /><br />
-
-{{< screenshot Varieties-sort.jpg "Screenshot of varieties sorting options" >}}<br /><br />
-
-{{< screenshot Varieties-search-brandywine.jpg "Screenshot of variety search for brandywine tomatoes" >}}
 
 {{< alert icon="🌶️" context="warning" text=Any filters that are applied will also filter the search results. Select **Show All** and be sure all sources are selected to see all varieties." />}}
 
@@ -36,17 +26,17 @@ To add plants with a specific variety:
 
 5. To see more varieties at once, change the view to **Dense**
 
-{{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}
 
 6. Favorite the varieties you want to plant by selecting the **Heart** icon; set a default variety by selecting the **Circle** icon
 
-{{< screenshot Add-plants.jpg "Screenshot of the heart icon and the favorite icon for varieties" >}}
 
 7. Select the **Back** arrow to return to the plants list
 
-{{< screenshot Varieties-back-arrow.jpg "Screenshot of the back arrow to exit the varieties screen" >}}
 
-8. If you selected a default variety, you will see it listed under the plant. To change the variety you want to use, select the down arrow below the plant
+8. If you specified a default variety, it will be listed under the plant. To change the variety, select the down arrow below the plant and select either a **Recently Selected** or **Favorite** variety, or **Choose** another variety
+
+
+
 
 9. Long press on the plant to add it to your garden
 
