@@ -12,5 +12,5 @@ To rename your garden:
 {{< screenshot Garden-list-dots.jpg "Screenshot of a garden name with the three dots icon" >}}<br /><br /><br />
 
 2. Enter the new garden name and select **Ok**:
-{{< screenshot Rename-garden.jpg "Screenshot of the rename garden window" >}}<br /><br /><br />
+{{< screenshot Rename_garden.jpg "Screenshot of the rename garden window" >}}<br /><br /><br />
 {{< screenshot Garden-list-update.jpg "Screenshot of a garden with an updated name" >}}
