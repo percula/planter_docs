@@ -47,4 +47,8 @@ To add plants with a specific variety:
 
 {{< alert icon="🧄" context="info" text="Don't want to add a specific variety after all? Choose "No variety" to clear variety selections. />}}
 
-9. Long press on the plant to add it to your garden. To see which variety you added, select the plant in your garden and refer to the 'Variety Selected' section.
+9. Long press on the plant to add it to your garden. To see which variety you added, select the plant in your garden and refer to the 'Variety Selected' section
+
+{{< screenshot Cherry-tomatoes.jpg "Screenshot of cherry tomatoes planted in a garden" >}}
+
+{{< screenshot Tomatoes-selected-variety.jpg "Screenshot showing cherry tomatoes as the selected tomato variety" >}}
