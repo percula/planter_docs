@@ -32,7 +32,7 @@ To add specific varieties of plants to your garden:
 {{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}<br /><br /><br />
 
 6. Favorite the varieties you want to plant by selecting the **Heart** icon and set a default variety by selecting the **Circle** icon
-{{< screenshot Varieties-favorites.jpg "Screenshot of the heart icon and the favorite icon for varieties" >}}<br /><br /><br />
+{{< screenshot Varieties-favorites.jpg "Screenshot of the heart icon and the default icon for varieties" >}}<br /><br /><br />
 
 7. Select the **Back** arrow to return to the plants list
 {{< screenshot Varieties-back-arrow.jpg "Screenshot of the back arrow to exit the varieties screen" >}}<br /><br /><br />

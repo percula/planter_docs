@@ -9,8 +9,8 @@ url: "plant-information/favorite-plants"
 Mark plants as favorites to make them easier to find!
 
 1. Select **Plants** from the menu bar
-{{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br /><br />
-2. *Find* the plant(s) you want to mark as favorites
+{{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br />
+2. *Find* the plant(s) you want to mark as favorites<br />
 3. Select the plant, then select the **Heart** icon beside the plant name:
 {{< screenshot Plant-favorite.jpg "Screenshot of a plant with the heart icon unselected" >}}<br /><br /><br />
 {{< screenshot Plant-favorited.jpg "Screenshot of a plant with the heart icon selected" >}}<br /><br /><br />
