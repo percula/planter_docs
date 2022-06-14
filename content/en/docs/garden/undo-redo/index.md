@@ -12,8 +12,6 @@ You can undo (or redo) your **9 most recent actions** (including adding and remo
 
 1. Use the **Undo** button to undo actions in sequential order
 
-1. Use the **Redo** button to redo actions that have been undone
-
-{{< screenshot Undo-redo.jpg "Screenshot of the undo and redo buttons" >}}<br />
-
+2. Use the **Redo** button to redo actions that have been undone
+{{< screenshot Undo-redo.jpg "Screenshot of the undo and redo buttons" >}}
 {{< alert icon="🌶️" context="warning" text="You won’t able to undo or redo your actions after leaving a garden or closing Planter." />}}
