@@ -18,7 +18,7 @@ To add plants with a specific variety:
 
 3. Quick-press on the plant, then select the **Varieties** tab
 
-{{< screenshot Varieties-tomatoes.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
+{{< screenshot Varieties-tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
 4. Find the varieties you are interested in adding: filter and sort to organize and narrow down the list of varieties, and use search to find a specific variety:
 
@@ -28,7 +28,7 @@ To add plants with a specific variety:
 
 {{< screenshot Varieties-sort.jpg "Screenshot of varieties sorting options" >}}<br /><br />
 
-
+{{< screenshot Varieties-search-brandywine.jpg "Screenshot of variety search for brandywine tomatoes" >}}
 
 {{< alert icon="🌶️" context="warning" text=Any filters that are applied will also filter the search results. Select **Show All** and be sure all sources are selected to see all varieties." />}}
 
