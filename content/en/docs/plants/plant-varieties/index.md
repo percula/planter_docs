@@ -30,15 +30,19 @@ To add plants with a specific variety:
 
 {{< screenshot Varieties-search-brandywine.jpg "Screenshot of variety search for brandywine tomatoes" >}}
 
-{{< alert icon="🌶️" context="warning" text="Any filters that are applied will also filter the search results. Select "Show All" and be sure all sources are selected to see all varieties." />}}
+{{< alert icon="🌶️" context="warning" text="Any filters that are applied will also filter the search results. Select **Show All** and be sure all sources are selected to see all varieties." />}}
 
 {{< alert icon="🥕️" context="info" text="Don’t see the variety you are looking for? <a href=https://planter.garden/requests>Submit (or upvote!) a variety request</a> or <a href=https://staging2--planter-docs.netlify.app>create a custom plant</a>." />}}
 
-5. To see more varieties at once, change the view to **Condensed**
+5. To see more varieties at once, **Condense** the view
 
 {{< screenshot Varieties-change-view.jpg "Screenshot of variety view selections" >}}
 
+{{< screenshot Varieties-condensed.jpg "Screenshot of the condensed variety view" >}}
+
 6. Favorite the varieties you want to plant by selecting the **Heart** icon; set a default variety by selecting the **Circle** icon:
+
+
 
 7. Select the **Back** arrow to return to the plants list
 

@@ -6,7 +6,7 @@ weight: 201
 url: "plants/add-plants"
 ---
 
-Ready to get planning? Planter makes it easy to find plants and add them to your garden.
+Ready to get planning? Planter makes it easy to find plants and add them to your garden!
 
 1. In your garden, select the **+ Add Plants** button
 
