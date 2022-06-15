@@ -25,11 +25,11 @@ To customize your garden in Planter:
 {{< screenshot Foreground-hose.jpg "Screenshot of the hose foreground selected" >}}<br /><br /><br />
 {{< screenshot Rotate-icon.jpg "Screenshot of the foreground rotate icon" >}}<br /><br /><br />
 {{< screenshot Hose-rotated.jpg "Screenshot of the hose foreground after rotating" >}}<br /><br /><br />
-{{< alert icon="🌿" context="info" text="Foregrounds cannot be layered; select one foreground per square (e.g., a container or a cage)." />}}
+{{< alert icon="🌿" context="info" text="Foregrounds can't be layered; select one foreground per garden square." />}}
 
 To reset your garden background:
 
 1. Select the square(s) to be changed
-2. Select the **Palette* icon
+2. Select the **Palette** icon
 3. Choose a new background and foreground, or leave the background and foreground empty to clear all customizations
-{{< alert icon="🌶️" context="warning" text="You can’t clear just the foreground or the background - clear all customizations first then select a new background or foreground." />}}
+{{< alert icon="🌶️" context="warning" text="You can’t clear just the foreground or the background - clear all customizations first then select a new background and foreground." />}}

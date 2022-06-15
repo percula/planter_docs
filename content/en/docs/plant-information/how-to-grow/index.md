@@ -7,9 +7,7 @@ url: "plant-information/how-to-grow"
 ---
 
 Yes! Planter has plant care information for many types of plants, and new plants are being added all the time!
-
 {{< alert icon="🌿" context="info" text="See <a href=\"../find\">Where can I find plant care information?</a> to learn where to find the plant care information in Planter." />}}
-
 Every plant in Planter has a 'How to Grow' page with lots of handy information:
 
 #### Description
@@ -21,7 +19,7 @@ Which group the plant belongs to in Planter.
 {{< screenshot Carrots-description.jpg "Screenshot of carrots description" >}}
 
 #### Quick Info
-General planting and care information. Many of the Quick Info cards display additional details when selected.
+General planting and care information. Many of the Quick Info cards display additional details when selected:
 
 {{< screenshot Carrots-quick-info.jpg "Screenshot of carrots Quick Info cards" >}}<br />
 
@@ -41,7 +39,7 @@ General planting and care information. Many of the Quick Info cards display addi
 
 - **Sprout to Harvest:** once the plant has sprouted, how many days it takes for the plant to start producing or to be ready for harvesting.
 
-{{< alert icon="🍅" context="info" text="Tomatoes do not have Sprout to Harvest days noted, because it can vary dramatically depending on the variety!" />}}
+{{< alert icon="🍅" context="info" text="Tomatoes do not have Sprout to Harvest days noted, because it varies dramatically depending on the variety!" />}}
 
 #### Growing Calendar
 Shows when to **Start Indoors** (start growing seeds indoors), when to **Transplant** (plant already-growing plants outdoors), and when to **Start Outdoors** (plant seeds directly outdoors), based on your frost date settings.

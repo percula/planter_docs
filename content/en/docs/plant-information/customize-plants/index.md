@@ -1,7 +1,7 @@
 ---
 title: "How can I customize plant information?"
 description: "Learn how to customize information for existing plants"
-weight: 306
+weight: 307
 draft: false
 url: "plant-information/customize-plants"
 ---

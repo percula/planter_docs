@@ -2,7 +2,7 @@
 title: "How can I find specific plant varieties in Planter?"
 description: "Learn how to find specific plant varieties"
 draft: false
-weight: 311
+weight: 304
 url: "plant-information/find-varieties"
 ---
 

@@ -8,7 +8,7 @@ url: "garden/share"
 
 To share or save a screenshot of your garden:
 
-1. In the garden you want to share, select the **Three dots (⋮)** icon then select **Share screenshot**
+1. Open the garden you want to share, select the **Three dots (⋮)** icon then select **Share screenshot**<br />
 {{< screenshot Garden-three-dots.jpg "Screenshot of the three dots icon" >}}<br /><br /><br />
 
 2. From your system sharing screen, share the screenshot to another app or save it

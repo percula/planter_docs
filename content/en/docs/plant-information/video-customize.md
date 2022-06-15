@@ -1,8 +1,8 @@
 ---
-title: "Video: garden customization"
-description: "A short video showing how to customize gardens"
+title: "Video: create custom plants"
+description: "A short video showing how to create custom plants"
 draft: false
-weight: 310
+weight: 309
 url: "plant-information/video-customize"
 ---
 {{< youtube PI3BeHTM2QU >}}
