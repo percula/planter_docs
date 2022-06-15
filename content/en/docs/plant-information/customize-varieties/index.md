@@ -6,18 +6,6 @@ draft: false
 url: "plant-information/customize-varieties"
 ---
 
-### Creating custom varieties
-If the app does not have a variety you are planting, you can add a custom variety:
-
-1. Open the plant that you'd like to add a custom variety for
-2. Swipe over to the Varieties tab.
-3. Tap the "+" button.
-4. Enter the variety name and (optionally) a short and long description.
-5. Optionally choose an icon and image.
-5. Tap "Save".
-
-{{< youtube qQOHxdTF7E0 >}}
-
 ### Editing varieties
 You can edit the varieties you've added, but not existing varieties. To do so:
 
