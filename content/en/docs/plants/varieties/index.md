@@ -49,7 +49,7 @@ To add specific varieties of plants to your garden:
 To check which varieties you've added to your garden:
 1. Select the plant in your garden
 
-2. If a variety is selected, the **Selected Variety** section will appear on the **How to Grow** tab
+2. If a variety is selected, the **Selected Variety** section will appear on the **How to Grow** tab<br />
 {{< screenshot Tomatoes-selected-variety.jpg "Screenshot showing cherry tomatoes as the selected tomato variety" >}}
 
 To switch the varieties of plants in your garden:
@@ -57,5 +57,5 @@ To switch the varieties of plants in your garden:
 
 2. Select the **Varieties** tab
 
-3. Find the desired variety then select the **Circle** icon
+3. Find the variety you want to switch to then select the **Circle** icon
 {{< screenshot Selected-variety.jpg "Screenshot showing Roma tomatoes as the selected variety" >}}
