@@ -17,13 +17,13 @@ Growing a plant that's not in Planter yet?  Create your own custom plant!
 3. Enter the plant **Name**<br />
 {{< screenshot New-plant_name.jpg "Screenshot of Currants being entered as a new plant name" >}}<br /><br /><br />
 
-4. Optionally, select **Icon** to chose a plant icon (choose from **Existing** icons in Planter, choose an image **From your device** to be the icon, or search for an icon **On the web**, download it, then upload it **From your device**)<br />
+4. Optionally, select **Icon** to chose a plant icon (choose from **Existing** icons in Planter, use an image **From your device** as the icon, or search for an icon **On the web**, download it, then upload it **From your device**)<br />
 {{< screenshot Change_icon.jpg "Screenshot of the button to select a plant icon" >}}<br /><br /><br />
 {{< screenshot Choose_icon.jpg "Screenshot of the menu to choose an icon source" >}}
 
 {{< alert icon="🌱" context="info" text="The plant icon appears in the **Plants** list and in your garden." />}}
 
-5. Optionally, select **Image** to chose a plant image (choose an image  **From your device** or search for an image **On the web**, download it, then upload it **From your device**)<br />
+5. Optionally, select **Image** to chose a plant image (choose an image **From your device** or search for an image **On the web**, download it, then upload it **From your device**)<br />
 {{< screenshot Change_image.jpg "Screenshot of the button to select a plant image" >}}<br /><br /><br />
 {{< screenshot Choose_image.jpg "Screenshot of the menu to choose an image source" >}}
 
