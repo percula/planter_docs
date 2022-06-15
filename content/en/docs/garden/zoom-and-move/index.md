@@ -5,7 +5,7 @@ draft: false
 weight: 101
 url: "garden/zoom-and-move"
 ---
-Planning a large garden that looks itty bitty on your screen? Zoom in and move around to focus on different areas in your garden.
+Planning a large garden that looks tiny on your screen? Zoom in and move around to focus on different areas in your garden.
 
 #### Zoom on mobile
 

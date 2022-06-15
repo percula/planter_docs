@@ -50,7 +50,7 @@ To check which varieties you've added to your garden:
 1. Select the plant in your garden
 
 2. If a variety is selected, the **Selected Variety** section will appear on the **How to Grow** tab<br />
-{{< screenshot Tomatoes-selected-variety.jpg "Screenshot showing cherry tomatoes as the selected tomato variety" >}}
+{{< screenshot Tomatoes-selected-variety.jpg "Screenshot showing cherry tomatoes as the selected tomato variety" >}}<br /><br /><br />
 
 To switch the varieties of plants in your garden:
 1. Select the plant in your garden
