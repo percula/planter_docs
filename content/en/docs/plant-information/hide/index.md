@@ -12,7 +12,9 @@ To hide a plant:
 1. Select **Plants** from the menu bar<br />
 {{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br /><br />
 
-2. Long-press on the plant, then select **Hide**
+2. Find the plant you want to hide
+
+3. Long-press on the plant, then select **Hide**
 {{< screenshot Menu-hide.jpg "Screenshot of a dropdown menu with the option to Hide a plant" >}}<br /><br /><br />
 
 To view and unhide hidden plants:

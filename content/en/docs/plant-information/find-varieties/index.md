@@ -1,5 +1,5 @@
 ---
-title: "How can I find specific plant varieties in Planter?"
+title: "How can I find plant varieties in Planter?"
 description: "Learn how to find specific plant varieties"
 draft: false
 weight: 304
