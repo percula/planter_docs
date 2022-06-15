@@ -1,6 +1,6 @@
 ---
 title: "Does Planter have plant care information?"
-description: "Learn about plant care information in Planter"
+description: "Learn about the "How to Grow" tab in Planter"
 draft: false
 weight: 301
 url: "plant-information/how-to-grow"
@@ -8,7 +8,7 @@ url: "plant-information/how-to-grow"
 
 Yes! Planter has plant care information for many types of plants, and new plants are being added all the time!
 {{< alert icon="🌿" context="info" text="See <a href=\"../find\">Where can I find plant care information?</a> to learn where to find the plant care information in Planter." />}}
-Every plant in Planter has a 'How to Grow' page with lots of handy information:
+Every plant in Planter has a **How to Grow** tab with lots of handy information:
 
 #### Description
 A brief overview of the plant and tips to grow it successfully.
@@ -19,7 +19,7 @@ Which group the plant belongs to in Planter.
 {{< screenshot Carrots-description.jpg "Screenshot of carrots description" >}}
 
 #### Quick Info
-General planting and care information. Many of the Quick Info cards display additional details when selected:
+General planting and care information. Many of the **Quick Info** cards display additional details when selected:
 
 {{< screenshot Carrots-quick-info.jpg "Screenshot of carrots Quick Info cards" >}}<br />
 
