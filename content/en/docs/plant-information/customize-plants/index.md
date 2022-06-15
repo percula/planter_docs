@@ -1,17 +1,17 @@
 ---
-title: "How can I customize plant information?"
-description: "Learn how to customize information for existing plants"
+title: "How can I customize plant care information?"
+description: "Learn how to customize plant care information"
 weight: 307
 draft: false
 url: "plant-information/customize-plants"
 ---
 
-You can customize any of the information on existing plants, including the icon and image:
+To adjust the **How to Grow** information for existing plants:
 
 1. Select **Plants** from the menu bar<br />
 {{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br /><br />
 
-2. Find the plant you want to edit
+2. *Find* the plant you want to edit
 
 3. Long-press on the plant, then select, **Edit**
 {{< screenshot Menu-edit.jpg "Screenshot of a dropdown menu with the option to Edit a plant" >}}<br /><br /><br />

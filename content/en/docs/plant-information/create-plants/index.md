@@ -1,34 +1,34 @@
 ---
 title: "How can I create new plants?"
-description: "Learn how to create your own plants"
+description: "Learn how to create your own custom plants"
 weight: 308
 draft: false
 url: "plant-information/create-plants"
 ---
 
-You can customize any of the information on existing plants, including the icon and image:
+Growing a plant that's not in Planter yet?  Create your own custom plant!
 
-1. Select **Plants** from the menu bar
+1. Select **Plants** from the menu bar<br />
+{{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br /><br />
 
-{{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br />
+2. Select **+ Add Plant**
+{{< screenshot Add-plant.jpg "Screenshot of the Add Plant button" >}}<br /><br /><br />
 
-2. Long-press on the plant you'd like to edit.
-3. Select **Edit**
-4. Adjust the information to your liking
-5. Select **Save**
+3. Enter the plant **Name**
+{{< screenshot New-plant-name.jpg "Screenshot of Currants being entered as a new plant name" >}}<br /><br /><br />
 
-To customize the plant spacing:
+4. Optionally, select "Icon" to chose a plant icon (choose from **Existing** icons in Planter, choose an image  **From your Device** to be the icon, or search for an icon **On the Web** and download it)
+{{< screenshot Change-icon.jpg "Screenshot of the button to select a plant icon" >}}<br /><br /><br />
+{{< screenshot Choose-icon.jpg "Screenshot of the menu to choose an icon source" >}}<br /><br /><br />
 
-1. On the plant detail page, tap the "Spacing" tile.
-2. Tap the pencil icon next to the spacing.
-3. Adjust the spacing to your liking.
-5. Tap "Okay".
+The plant icon is used in the **Plants** list and in your garden.
 
+5. Optionally, select "Image" to chose a plant image (choose an image  **From your Device** or search for an image **On the Web** and download it)
+{{< screenshot Change-image.jpg "Screenshot of the button to select a plant image" >}}<br /><br /><br />
+{{< screenshot Choose-image.jpg "Screenshot of the menu to choose an image source" >}}<br /><br /><br />
 
-If the app does not have a plant you are planting, you can add a custom plant:
+The plant image is shown in the header when you select the plant.
 
-1. On the Plants screen (**not** the "Add Plants" dialog in the garden view), tap the "+" button.
-2. Enter the plant name.
-3. Optionally add a description and other information.
-5. Optionally choose an icon and image.
-5. Tap "Save".
+5. Add additional plant care information as desired, then select **Save**
+{{< screenshot Plant-save.jpg "Screenshot of the button to save a newly created plant" >}}<br /><br /><br />
+{{< screenshot New-plant-currants.jpg "Screenshot of a newly created currant plant" >}}
