@@ -30,3 +30,5 @@ To quickly adjust plant spacing:
 3. Drag the slider to increase or decrease the per-square-foot spacing, then select **Okay**
 {{< screenshot Adjust-spacing.jpg "Screenshot of slider to adjust spacing and the Okay button" >}}<br /><br /><br />
 {{< screenshot Spacing-adjusted.jpg "Screenshot of the plant spacing for beets edited to 8 per square foot" >}}<br /><br /><br />
+
+{{< alert icon="🍅" context="info" text="If you have set *custom variety spacing*, it will override plant spacing when you use that variety." />}}
