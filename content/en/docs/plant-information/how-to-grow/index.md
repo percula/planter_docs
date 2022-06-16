@@ -7,7 +7,7 @@ url: "plant-information/how-to-grow"
 ---
 
 Yes! Planter has plant care information for many types of plants, and new plants are being added all the time!
-{{< alert icon="🌿" context="info" text="See <a href=\"../find-plants\">Where can I find plant care information?</a> to learn where to find the plant care information in Planter." />}}
+{{< alert icon="🌿" context="info" text="See <*Where can I find plant care information?* to learn where to find the plant care information in Planter." />}}
 Every plant in Planter has a **How to Grow** tab with lots of handy information:
 
 #### Description
@@ -68,7 +68,7 @@ Select the cards to learn more about each combative plant.<br />
 
 {{< alert icon="🌱" context="info" text="Plants that are neither companions nor combative are neutral. It’s not a problem to plant them side-by-side so long as their basic needs are met." />}}
 
-{{< alert icon="🌿" context="info" text="Some plants can be companions and combative, depending on the variety. An example of this is pole beans and bush beans. For these plants, Planter recommends all potential companions and warns of all potentially combative plants. These plants have a yellow <a href=\"/garden\indicators#compability indicators\">compatibility indicator</a> in the garden." />}}
+{{< alert icon="🌿" context="info" text="Some plants can be companions and combative, depending on the variety. An example of this is pole beans and bush beans. For these plants, Planter recommends all potential companions and warns of all potentially combative plants. These plants have a yellow compatibility indicator in the garden." />}}
 
 #### Pests
 Pests that the plant tends to suffer from. Select the cards to learn more about each of the pests including: Plants Affected, Identification, Damage, Prevention, Physical Controls, and Chemical Controls.
