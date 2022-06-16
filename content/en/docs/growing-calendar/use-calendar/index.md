@@ -1,9 +1,9 @@
 ---
 title: "How can I use the Growing Calendar?"
 description: "Learn how to use the Growing Calendar to plan your plantings"
-weight: 400
+weight: 401
 draft: false
-url: "growing-calendar"
+url: "growing-calendar/use-calendar"
 ---
 
 Use the Growing Calendar to time your garden plantings: check which plants you can start inside, transplant, or sow outside at any point in your growing season.
