@@ -1,7 +1,7 @@
 ---
 title: "How can I customize plant care information?"
 description: "Learn how to customize 'How to Grow' information"
-weight: 310
+weight: 309
 draft: false
 url: "plant-information/customize-plants"
 ---
