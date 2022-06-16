@@ -6,7 +6,7 @@ weight: 304
 url: "plant-information/find-varieties"
 ---
 
-1. Select a plant, then select the **Varieties** <br />
+1. Select a plant, then select the **Varieties** tab<br />
 {{< screenshot Varieties_tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br /><br />
 
 2. Filter and sort to organize and narrow down the list of varieties, and use search to find a specific variety:<br />
