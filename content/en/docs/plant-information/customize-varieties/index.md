@@ -1,12 +1,12 @@
 ---
 title: "How can I customize variety information?"
 description: "Learn how to customize variety information"
-weight: 310
+weight: 311
 draft: false
 url: "plant-information/customize-varieties"
 ---
 
-You can edit the information for any custom varieties you've added, but not existing varieties.
+You can edit the information for any custom varieties you've added, but not existing varieties.<br />
 Spacing can be customized for every variety, though. Set custom variety spacing to plan your garden with the proper spacing for each variety you grow.
 
 To set custom variety spacing:
@@ -28,7 +28,7 @@ To edit a custom variety:
 1. Select a plant, then select the **Varieties** tab<br />
 {{< screenshot Varieties_tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br /><br />
 
-2. Change the filter to only see **My Varieties** (by de-selecting **Common Varieties** and **Burpee**)<br />
+2. Change the filter settings to only see **My Varieties** (by de-selecting **Common Varieties** and **Burpee**)<br />
 {{< screenshot Varieties_filter-icon.jpg "Screenshot of the varieties filter icon" >}}<br /><br /><br />
 {{< screenshot My-varieties.jpg "Screenshot of the varieties filter with My Varieties selected" >}}<br /><br /><br />
 

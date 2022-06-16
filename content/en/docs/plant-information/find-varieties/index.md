@@ -1,15 +1,15 @@
 ---
-title: "How can I find plant varieties in Planter?"
-description: "Learn how to find specific plant varieties"
+title: "Where can I find plant varieties in Planter?"
+description: "Learn where to find specific plant varieties"
 draft: false
 weight: 304
 url: "plant-information/find-varieties"
 ---
 
-1. Select a plant, then select the **Varieties** tab
+1. Select a plant, then select the **Varieties** <br />
 {{< screenshot Varieties_tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br /><br />
 
-2. Find the varieties you want to mark as favorites: filter and sort to organize and narrow down the list of varieties, and use search to find a specific variety:
+2. Filter and sort to organize and narrow down the list of varieties, and use search to find a specific variety:<br />
 {{< screenshot Varieties-search-bar.jpg "Screenshot of the varieties search bar" >}}<br /><br /><br />
 {{< screenshot Varieties-filter.jpg "Screenshot of variety filter options" >}}<br /><br /><br />
 {{< screenshot Varieties-sort.jpg "Screenshot of varieties sorting options" >}}<br /><br /><br />
@@ -17,6 +17,6 @@ url: "plant-information/find-varieties"
 {{< alert icon="🌶️" context="warning" text="Any filters that are applied will also filter the search results. Select **Show All** and be sure all sources are selected to see all varieties." />}}
 {{< alert icon="🥬" context="info" text="Don’t see the variety you are looking for? *Submit (or upvote!) a variety request* or *create a custom variety.*" />}}
 
-3. To look through more varieties at once, change the view to **Dense**
-{{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}<br /><br /><br />
+3. To look through more varieties at once, change the view to **Dense**<br />
+{{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}
 {{< alert icon="🍅" context="info" text="Found a nifty variety that you have to have in your garden? Select the **Down arrow** beside the variety name- many varieties have the option to **Buy Seeds** from Burpee Seeds and Plants." />}}

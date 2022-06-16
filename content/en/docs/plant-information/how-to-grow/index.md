@@ -14,14 +14,12 @@ Every plant in Planter has a **How to Grow** tab with lots of handy information:
 A brief overview of the plant and tips to grow it successfully.
 
 #### Category
-Which group the plant belongs to in Planter.
-
+Which group the plant belongs to in Planter.<br />
 {{< screenshot Carrots-description.jpg "Screenshot of carrots description" >}}
 
 #### Quick Info
-General planting and care information. Many of the **Quick Info** cards display additional details when selected:
-
-{{< screenshot Carrots-quick-info.jpg "Screenshot of carrots Quick Info cards" >}}<br />
+General planting and care information. Many of the **Quick Info** cards display additional details when selected:<br />
+{{< screenshot Carrots-quick-info.jpg "Screenshot of carrots Quick Info cards" >}}<br /><br /><br />
 
 - **Spacing:** how many plants fit within a square foot. The plant spacing per square foot can be customized by tapping on this card.
 
@@ -48,9 +46,7 @@ Shows when to **Start Indoors** (start growing seeds indoors), when to **Transpl
 
 - If the plant is typically grown by planting seeds directly outdoors, only the **Start Outdoors** dates will show.
 
-- If the plant is typically grown by starting seeds indoors then transplanting outside, only the **Start Indoors** and **Transplant** dates will show.
-<br />
-
+- If the plant is typically grown by starting seeds indoors then transplanting outside, only the **Start Indoors** and **Transplant** dates will show. <br />
 {{< screenshot Carrots-growing-calendar.jpg "Screenshot of carrots Growing Calendar" >}}
 
 {{< alert icon="❄️" context="warning" text="Pay attention to the weather forecast before planting outdoors to make sure there is no extreme weather coming that could harm your plants!" />}}
@@ -67,8 +63,7 @@ Select the cards to learn more about each suggested companion plant.
 #### Combative Plants
 Plants that should not be planted next to the selected plant, as they can compete intensely for the same resources, or suffer from the same diseases and pests.
 
-Select the cards to learn more about each combative plant.
-
+Select the cards to learn more about each combative plant.<br />
 {{< screenshot Carrots-companions.jpg "Screenshot of carrots Companion Plants and Combative Plants" >}}
 
 {{< alert icon="🌱" context="info" text="Plants that are neither companions nor combative are neutral. It’s not a problem to plant them side-by-side so long as their basic needs are met." />}}

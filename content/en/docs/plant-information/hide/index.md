@@ -21,5 +21,5 @@ To view and unhide hidden plants:
 1. From the **Plants** list, change the filter to **Hidden Plants**
 {{< screenshot Hidden-plants.jpg "Screenshot of the Hidden Plants filter option" >}}<br /><br /><br />
 
-2. Long press on the plant, then select **Un-hide**
+2. Long-press on the plant, then select **Un-hide**
 {{< screenshot Menu-unhide.jpg "Screenshot of a dropdown menu with the option to Unhide a plant" >}}<br /><br /><br />
