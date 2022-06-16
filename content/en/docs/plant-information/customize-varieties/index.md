@@ -1,7 +1,7 @@
 ---
 title: "How can I customize variety information?"
 description: "Learn how to customize variety information"
-weight: 311
+weight: 313
 draft: false
 url: "plant-information/customize-varieties"
 ---

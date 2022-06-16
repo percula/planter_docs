@@ -1,7 +1,7 @@
 ---
 title: "How can I create new plants?"
 description: "Learn how to create your own custom plants"
-weight: 309
+weight: 307
 draft: false
 url: "plant-information/create-plants"
 ---
