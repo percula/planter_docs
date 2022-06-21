@@ -13,7 +13,7 @@ To find plant care information in Planter:
 1. Select **Plants** from the menu bar<br />
 {{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br /><br />
 
-2. Sort and filter to organize and narrow down the list of plants; use search to find a specific plant:
+2. Sort and filter to organize and narrow down the list of plants; use search to find a specific plant:<br />
 {{< screenshot Plants-search-bar.jpg "Screenshot of the plant search bar" >}}<br /><br /><br />
 {{< screenshot Plants-sort.jpg "Screenshot of plant sorting options" >}}<br /><br /><br />
 {{< screenshot Plants-filter.jpg "Screenshot of plant filter options" >}}<br /><br /><br />

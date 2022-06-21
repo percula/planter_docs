@@ -24,7 +24,7 @@ Check which plants you can **Start Inside**, **Transplant**, or **Sow Outside** 
 - Select whether you want to see plants that you can **Start inside now**, **Transplant now**, or **Sow outside now** (select all three to see All of these actions, or leave all three unselected to the growing calendar for all plants regardless of whether you can plant them now)
 {{< screenshot Calendar-search-bar.jpg "Screenshot of the growing calendar search bar" >}}<br /><br /><br />
 {{< screenshot Calendar_filter.jpg "Screenshot of growing calendar filter options with Transplant now and Sow outside now selected" >}}<br /><br /><br />
-{{< screenshot Calendar_filtered.jpg "Screenshot of the growing calendar filtered for Transplant now and Sow outside now >}}<br /><br /><br />
+{{< screenshot Calendar_filtered.jpg "Screenshot of the growing calendar filtered for Transplant now and Sow outside now" >}}<br /><br /><br />
 
 
 {{< alert icon="🍐" context="alert" text="These filter settings work together- if you select **Favorite plants** and **Start Inside now**, you will see which of your favorite plants can be started inside now." />}}
