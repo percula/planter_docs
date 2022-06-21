@@ -1,6 +1,6 @@
 ---
 title: "Does Planter have plant care information?"
-description: "Learn about the "How to Grow" tab in Planter"
+description: "Learn about the How to Grow tab in Planter"
 draft: false
 weight: 301
 url: "plant-information/how-to-grow"
